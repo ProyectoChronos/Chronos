@@ -2,7 +2,7 @@
 
 ## Marco de Competencias Genéricas UADY
 
-A través del desarrollo del proyecto CHRONOS, hemos fortalecido y desarrollado competencias genéricas fundamentales para nuestro crecimiento profesional y personal, alineadas con el perfil de egreso del programa de Ingeniería de Software.
+A través del desarrollo del proyecto CHRONOS, hemos fortalecido y desarrollado competencias genéricas fundamentales para nuestro crecimiento profesional y personal, alineadas con el perfil de egreso[...]
 
 ---
 
@@ -14,66 +14,66 @@ A través del desarrollo del proyecto CHRONOS, hemos fortalecido y desarrollado 
 Durante el proyecto hemos fortalecido significativamente nuestras habilidades de comunicación oral a través de múltiples actividades:
 
 **Ceremonias de Scrum:**
-- **Daily Stand-ups:** Práctica diaria de comunicación concisa y clara
-- **Sprint Reviews:** Presentaciones estructuradas de resultados al stakeholder
-- **Sprint Retrospectives:** Facilitación de discusiones constructivas sobre mejoras
-- **Sprint Planning:** Participación activa en estimaciones y negotiaciones de scope
+- **Reuniones diarias (Daily stand-ups):** práctica diaria de comunicación concisa y clara
+- **Revisiones de sprint (Sprint Reviews):** presentaciones estructuradas de resultados a la parte interesada
+- **Retrospectivas (Sprint Retrospectives):** facilitación de discusiones constructivas sobre mejoras
+- **Planificación de sprint (Sprint Planning):** participación activa en estimaciones y negociación del alcance
 
-**Presentaciones Técnicas:**
+**Presentaciones técnicas:**
 - Demos semanales del progreso del producto
-- Explicación de decisiones arquitectónicas al equipo
-- Knowledge sharing sessions sobre nuevas tecnologías
-- Presentaciones de research findings y propuestas de mejora
+- Explicación de decisiones de arquitectura al equipo
+- Sesiones de intercambio de conocimiento sobre nuevas tecnologías
+- Presentaciones de hallazgos de investigación y propuestas de mejora
 
 #### Evidencias:
-- ✅ **15+ presentaciones** realizadas durante el proyecto
-- ✅ **Feedback positivo** de profesora en evaluaciones de presentación
+- ✅ **Más de 15 presentaciones** realizadas durante el proyecto
+- ✅ **Retroalimentación positiva** de la profesora en evaluaciones de presentación
 - ✅ **Liderazgo rotativo** de ceremonias por todos los miembros
-- ✅ **Facilitation skills** desarrolladas durante retrospectives y planning
+- ✅ **Habilidades de facilitación** desarrolladas durante retrospectivas y planificación
 
 #### Impacto Personal:
-- **Carlos:** Mejoró confianza en presentaciones técnicas, especialmente al explicar arquitectura de código
-- **Ana:** Desarrolló habilidades de facilitation durante retrospectives y conflict resolution
-- **Guillermo:** Fortaleció communication de conceptos complejos técnicos a audiencias no técnicas
-- **Valeria:** Perfeccionó storytelling skills para presentar user research y design decisions
-- **Edrick:** Mejoró structured thinking y clear articulation durante planning sessions
+- **Carlos:** Mejoró la confianza en presentaciones técnicas, especialmente al explicar la arquitectura del código
+- **Ana:** Desarrolló habilidades de facilitación durante retrospectivas y resolución de conflictos
+- **Guillermo:** Fortaleció la comunicación de conceptos técnicos complejos a audiencias no técnicas
+- **Valeria:** Perfeccionó habilidades de narrativa para presentar investigación de usuarios y decisiones de diseño
+- **Edrick:** Mejoró el pensamiento estructurado y la articulación clara durante las sesiones de planificación
 
 ### ✍️ Comunicación Escrita
 
 #### Desarrollo Alcanzado:
 La documentación extensa del proyecto nos ha permitido desarrollar múltiples aspectos de comunicación escrita profesional:
 
-**Documentación Técnica:**
-- Architectural Decision Records (ADRs) para justificar tech choices
-- API documentation clara y comprehensive
-- Code comments y documentation siguiendo best practices
-- User stories y acceptance criteria bien definidas
+**Documentación técnica:**
+- Registros de Decisiones de Arquitectura (ADR) para justificar elecciones tecnológicas
+- Documentación de API clara y completa
+- Comentarios y documentación de código siguiendo buenas prácticas
+- Historias de usuario y criterios de aceptación bien definidos
 
-**Documentación de Proceso:**
-- Sprint reports detallados y objetivos
-- Risk assessment y mitigation plans
-- Meeting minutes y action items tracking
-- Progress reports para stakeholders académicos
+**Documentación de proceso:**
+- Reportes de sprint detallados y objetivos
+- Evaluación de riesgos y planes de mitigación
+- Minutas de reuniones y seguimiento de tareas
+- Informes de progreso para partes interesadas académicas
 
 #### Competencias Específicas Desarrolladas:
 
 ##### 📋 Redacción Técnica:
-- **Precision:** Documentación técnica sin ambigüedad
-- **Estructura:** Organización lógica de información compleja
-- **Audiencia awareness:** Adaptar lenguaje según reader (técnico vs no técnico)
-- **Conciseness:** Comunicar máxima información con minimum words
+- **Precisión:** documentación técnica sin ambigüedad
+- **Estructura:** organización lógica de información compleja
+- **Conciencia de la audiencia:** adaptar el lenguaje según el lector (técnico vs. no técnico)
+- **Concisión:** comunicar la máxima información con el mínimo de palabras
 
 ##### 📊 Reportes Profesionales:
-- **Data presentation:** Visualización efectiva de metrics y progress
-- **Executive summaries:** Síntesis de información para decision makers  
-- **Action-oriented writing:** Clear next steps y responsibilities
-- **Professional formatting:** Standards consistency across all documents
+- **Presentación de datos:** visualización efectiva de métricas y progreso
+- **Resúmenes ejecutivos:** síntesis de información para tomadores de decisiones  
+- **Redacción orientada a la acción:** próximos pasos claros y responsabilidades
+- **Formato profesional:** consistencia de estándares en todos los documentos
 
 #### Evidencias:
-- ✅ **50+ documentos** creados durante el proyecto (requirements, design docs, reports)
-- ✅ **Zero major miscommunications** debido a documentación unclear
-- ✅ **Positive feedback** de profesora en quality de deliverables
-- ✅ **Peer recognition** por clear y helpful documentation
+- ✅ **Más de 50 documentos** creados durante el proyecto (requerimientos, documentos de diseño, reportes)
+- ✅ **Cero malentendidos importantes** debido a documentación poco clara
+- ✅ **Retroalimentación positiva** de la profesora en la calidad de los entregables
+- ✅ **Reconocimiento de pares** por documentación clara y útil
 
 ---
 
@@ -85,29 +85,29 @@ La documentación extensa del proyecto nos ha permitido desarrollar múltiples a
 
 ##### 🎯 Coordinación de Tareas:
 **Implementación práctica:**
-- **Sprint Planning:** Collaborative estimation y task distribution
-- **Daily coordination:** Identificación de dependencies y blockers  
-- **Cross-functional work:** Integration entre diferentes expertise areas
-- **Conflict resolution:** Negotiation cuando priorities o approaches differ
+- **Planificación de sprint:** estimación colaborativa y distribución de tareas
+- **Coordinación diaria:** identificación de dependencias y bloqueos  
+- **Trabajo multifuncional:** integración entre diferentes áreas de especialidad
+- **Resolución de conflictos:** negociación cuando difieren prioridades o enfoques
 
-**Evidencias de effectiveness:**
-- ✅ **95% on-time delivery** de sprint commitments
-- ✅ **Zero major conflicts** que afectaron project timeline
-- ✅ **Balanced workload** distribution según individual strengths
-- ✅ **Proactive communication** of blockers y support needs
+**Evidencias de efectividad:**
+- ✅ **95% de entregas a tiempo** de los compromisos del sprint
+- ✅ **Cero conflictos mayores** que afectaran el cronograma del proyecto
+- ✅ **Carga de trabajo equilibrada** según las fortalezas individuales
+- ✅ **Comunicación proactiva** de bloqueos y necesidades de apoyo
 
 ##### 🤝 Sinergia de Equipo:
-**Cultural development:**
-- **Psychological safety:** Environment donde todos pueden voice concerns
-- **Knowledge sharing:** Regular sharing de learning y discoveries
-- **Mutual support:** Helping teammates cuando needed
-- **Celebration culture:** Recognizing individual y team achievements
+**Desarrollo cultural:**
+- **Seguridad psicológica:** ambiente donde todos pueden expresar inquietudes
+- **Intercambio de conocimiento:** compartición regular de aprendizajes y descubrimientos
+- **Apoyo mutuo:** ayuda entre compañeros cuando es necesario
+- **Cultura de celebración:** reconocimiento de logros individuales y de equipo
 
-**Métricas de team health:**
-- **Team satisfaction score:** 4.2/5 en internal surveys
-- **Knowledge distribution:** 100% de miembros pueden work en cualquier area (con support)
-- **Decision making:** Consensus reached en 95% de decisions
-- **Innovation frequency:** 2-3 new ideas implemented per sprint
+**Métricas de salud del equipo:**
+- **Puntaje de satisfacción del equipo:** 4.2/5 en encuestas internas
+- **Distribución del conocimiento:** 100% de los miembros pueden trabajar en cualquier área (con apoyo)
+- **Toma de decisiones:** consenso alcanzado en el 95% de las decisiones
+- **Frecuencia de innovación:** 2-3 ideas nuevas implementadas por sprint
 
 ### 🏆 Liderazgo Distribuido
 
@@ -117,44 +117,44 @@ Hemos implementado un sistema de liderazgo distribuido donde cada miembro ha ten
 
 ##### 🎭 Roles de Liderazgo Experimentados:
 
-**Carlos García - Technical Leadership:**
-- **Sprint 1 & 4:** Development Team Lead
-- **Competencias desarrolladas:** Technical decision making, architecture planning, code review leadership
-- **Impacto:** Established coding standards, led technical discussions, mentored en React patterns
+**Carlos García - Liderazgo Técnico:**
+- **Sprints 1 y 4:** Líder del equipo de desarrollo
+- **Competencias desarrolladas:** toma de decisiones técnicas, planificación de arquitectura, liderazgo en revisiones de código
+- **Impacto:** estableció estándares de codificación, lideró discusiones técnicas, mentorizó en patrones de React
 
-**Ana Lavadores - Quality Leadership:**
-- **Sprint 2 & 5:** QA Lead y Process Improvement  
-- **Competencias desarrolladas:** Quality assurance, process optimization, team coaching
-- **Impacto:** Implemented testing standards, led retrospectives, established quality gates
+**Ana Lavadores - Liderazgo en Calidad:**
+- **Sprints 2 y 5:** Líder de QA y mejora de procesos  
+- **Competencias desarrolladas:** aseguramiento de calidad, optimización de procesos, coaching del equipo
+- **Impacto:** implementó estándares de pruebas, lideró retrospectivas, estableció puertas de calidad
 
-**Guillermo Cárdenas - Project Leadership:**
-- **Sprint 3 & 6:** Scrum Master
-- **Competencias desarrolladas:** Facilitation, impediment removal, team motivation
-- **Impacto:** Improved team velocity, resolved blockers effectively, enhanced team communication
+**Guillermo Cárdenas - Liderazgo de Proyecto:**
+- **Sprints 3 y 6:** Scrum Master
+- **Competencias desarrolladas:** facilitación, remoción de impedimentos, motivación del equipo
+- **Impacto:** mejoró la velocidad del equipo, resolvió bloqueos eficazmente, fortaleció la comunicación del equipo
 
-**Valeria Hernández - Product Leadership:**
-- **Sprint 1 & 3:** Product Owner
-- **Competencias desarrolladas:** Stakeholder communication, requirements prioritization, user advocacy
-- **Impacto:** Clear product vision, effective backlog management, strong user focus
+**Valeria Hernández - Liderazgo de Producto:**
+- **Sprints 1 y 3:** Product Owner
+- **Competencias desarrolladas:** comunicación con partes interesadas, priorización de requisitos, defensa del usuario
+- **Impacto:** visión de producto clara, gestión efectiva del backlog, fuerte enfoque en el usuario
 
-**Edrick Torres - Strategic Leadership:**
-- **Sprint 2 & 4:** Infrastructure Lead
-- **Competencias desarrolladas:** Strategic planning, technology evaluation, documentation leadership
-- **Impacto:** Solid technical foundation, comprehensive documentation, future-oriented decisions
+**Edrick Torres - Liderazgo Estratégico:**
+- **Sprints 2 y 4:** Líder de infraestructura
+- **Competencias desarrolladas:** planificación estratégica, evaluación tecnológica, liderazgo en documentación
+- **Impacto:** base técnica sólida, documentación integral, decisiones orientadas al futuro
 
 #### Competencias de Liderazgo Desarrolladas:
 
 ##### 🎯 Liderazgo Situacional:
-- **Adaptive style:** Different approaches según situation y team needs
-- **Delegation skills:** Appropriate task distribution based en strengths
-- **Coaching mindset:** Supporting team members' growth y learning
-- **Decision making:** Balancing input with timely decision execution
+- **Estilo adaptable:** diferentes enfoques según la situación y las necesidades del equipo
+- **Habilidades de delegación:** distribución adecuada de tareas según fortalezas
+- **Mentalidad de coaching:** apoyo al crecimiento y aprendizaje del equipo
+- **Toma de decisiones:** equilibrar la participación con la ejecución oportuna
 
-##### 🌟 Influence without Authority:  
-- **Persuasion:** Convincing through logic y evidence rather than position
-- **Consensus building:** Finding win-win solutions para conflicting viewpoints
-- **Motivation:** Inspiring team members hacia common goals
-- **Example setting:** Leading through action y personal commitment
+##### 🌟 Influencia sin Autoridad:  
+- **Persuasión:** convencer mediante lógica y evidencia en lugar de posición
+- **Construcción de consenso:** encontrar soluciones ganar-ganar para puntos de vista en conflicto
+- **Motivación:** inspirar a los miembros del equipo hacia objetivos comunes
+- **Predicar con el ejemplo:** liderar mediante la acción y el compromiso personal
 
 ---
 
@@ -165,82 +165,82 @@ Hemos implementado un sistema de liderazgo distribuido donde cada miembro ha ten
 #### Competencias Desarrolladas:
 
 ##### 📊 Análisis de Información:
-**Problem identification:**
-- **Root cause analysis:** Using techniques like 5 Whys para identify underlying issues
-- **Data interpretation:** Making sense of user feedback, performance metrics, code quality indicators
-- **Pattern recognition:** Identifying recurring issues across different project areas
-- **Impact assessment:** Evaluating severity y priority de different problems
+**Identificación de problemas:**
+- **Análisis de causa raíz:** uso de técnicas como los 5 Porqués para identificar problemas subyacentes
+- **Interpretación de datos:** comprensión de retroalimentación de usuarios, métricas de rendimiento, indicadores de calidad del código
+- **Reconocimiento de patrones:** identificación de problemas recurrentes en diferentes áreas del proyecto
+- **Evaluación de impacto:** valoración de la severidad y prioridad de distintos problemas
 
 **Evidencias:**
-- ✅ **12 major problems** identified y resolved proactively
-- ✅ **Data-driven decisions:** 90% de major decisions supported by evidence
-- ✅ **Preventive measures:** Issues addressed before becoming blockers
-- ✅ **Stakeholder impact analysis** para all significant changes
+- ✅ **12 problemas mayores** identificados y resueltos proactivamente
+- ✅ **Decisiones basadas en datos:** 90% de las decisiones importantes respaldadas por evidencia
+- ✅ **Medidas preventivas:** problemas abordados antes de convertirse en bloqueos
+- ✅ **Análisis de impacto en partes interesadas** para todos los cambios significativos
 
 ##### 🎯 Evaluación de Alternativas:
-**Decision-making process:**
-- **Technology selection:** Systematic evaluation de tech stack options
-- **Feature prioritization:** Balancing user value, technical feasibility, y time constraints
-- **Architecture decisions:** Considering scalability, maintainability, y performance
-- **Process improvements:** Evaluating different agile practices y tools
+**Proceso de toma de decisiones:**
+- **Selección tecnológica:** evaluación sistemática de opciones de stack tecnológico
+- **Priorización de funcionalidades:** equilibrio entre valor para el usuario, viabilidad técnica y tiempo
+- **Decisiones de arquitectura:** considerando escalabilidad, mantenibilidad y rendimiento
+- **Mejoras de proceso:** evaluación de distintas prácticas y herramientas ágiles
 
-**Framework utilizado:**
+**Marco utilizado:**
 ```
-Evaluation Criteria:
-1. Technical feasibility (25%)
-2. User impact (30%)  
-3. Development effort (20%)
-4. Long-term maintainability (15%)
-5. Learning opportunity (10%)
+Criterios de evaluación:
+1. Viabilidad técnica (25%)
+2. Impacto en el usuario (30%)  
+3. Esfuerzo de desarrollo (20%)
+4. Mantenibilidad a largo plazo (15%)
+5. Oportunidad de aprendizaje (10%)
 
-Scoring: 1-5 scale per criteria
-Decision threshold: >3.5 average to proceed
+Puntuación: escala de 1 a 5 por criterio
+Umbral de decisión: promedio > 3.5 para proceder
 ```
 
 ### 🛠️ Resolución Creativa de Problemas
 
 #### Metodología Aplicada:
 
-##### 🌟 Design Thinking Approach:
-1. **Empathize:** Understanding user pain points y needs
-2. **Define:** Clear problem statement y success criteria  
-3. **Ideate:** Brainstorming multiple solution approaches
-4. **Prototype:** Quick, testable implementations
-5. **Test:** Gathering feedback y iterating
+##### 🌟 Enfoque de Design Thinking:
+1. **Empatizar:** comprender los puntos de dolor y necesidades del usuario
+2. **Definir:** declaración clara del problema y criterios de éxito  
+3. **Idear:** lluvia de ideas con múltiples enfoques de solución
+4. **Prototipar:** implementaciones rápidas y comprobables
+5. **Probar:** recopilar retroalimentación e iterar
 
-##### 🚀 Innovation Instances:
+##### 🚀 Instancias de Innovación:
 
-**Problema:** Traditional task apps are boring y don't motivate long-term use
-**Solución Creativa:** Gamification + wellness integration
-- **Innovation:** Combining productivity with mental health awareness
-- **Implementation:** Points system tied to both task completion y wellness activities
-- **Impact:** Unique value proposition differentiating from existing solutions
+**Problema:** Las aplicaciones de tareas tradicionales son aburridas y no motivan el uso a largo plazo  
+**Solución creativa:** Gamificación + integración de bienestar
+- **Innovación:** combinar productividad con conciencia de salud mental
+- **Implementación:** sistema de puntos ligado tanto a la finalización de tareas como a actividades de bienestar
+- **Impacto:** propuesta de valor única que diferencia de soluciones existentes
 
-**Problema:** Team members have different schedules y availability  
-**Solución Creativa:** Asynchronous collaboration with synchronization points
-- **Innovation:** Hybrid async-sync workflow adaptation
-- **Implementation:** Async documentation + daily sync + flexible meeting times
-- **Impact:** 95% participation rate despite scheduling challenges
+**Problema:** Los miembros del equipo tienen diferentes horarios y disponibilidad  
+**Solución creativa:** Colaboración asincrónica con puntos de sincronización
+- **Innovación:** adaptación de un flujo híbrido asíncrono-síncrono
+- **Implementación:** documentación asíncrona + sincronización diaria + horarios de reunión flexibles
+- **Impacto:** tasa de participación del 95% a pesar de los retos de agenda
 
-**Problema:** Balancing individual contribution tracking with team collaboration
-**Solución Creativa:** Multi-dimensional contribution metrics
-- **Innovation:** Holistic evaluation beyond just code contribution
-- **Implementation:** Technical, process, documentation, y quality contributions tracked
-- **Impact:** Fair evaluation encouraging diverse contribution types
+**Problema:** Equilibrar el seguimiento de la contribución individual con la colaboración del equipo  
+**Solución creativa:** Métricas de contribución multidimensionales
+- **Innovación:** evaluación holística más allá de la contribución de código
+- **Implementación:** seguimiento de contribuciones técnicas, de proceso, documentación y calidad
+- **Impacto:** evaluación justa que fomenta tipos de contribución diversos
 
-#### Problem-Solving Competencias:
+#### Competencias para la Resolución de Problemas:
 
-##### 🧩 Systematic Approach:
-- **Problem decomposition:** Breaking complex issues into manageable components
-- **Hypothesis formation:** Making educated guesses about solutions
-- **Experimentation:** Testing assumptions con small, controlled experiments
-- **Learning integration:** Incorporating lessons learned into future problem-solving
+##### 🧩 Enfoque Sistemático:
+- **Descomposición de problemas:** dividir problemas complejos en componentes manejables
+- **Formulación de hipótesis:** suposiciones fundamentadas sobre posibles soluciones
+- **Experimentación:** probar supuestos con experimentos pequeños y controlados
+- **Integración del aprendizaje:** incorporar lecciones aprendidas en la resolución futura
 
-##### 💡 Creative Thinking:
-- **Outside-the-box solutions:** Challenging conventional approaches
-- **Cross-domain inspiration:** Applying concepts from other fields
-- **Constraint reframing:** Turning limitations into opportunities
-- **Collaborative creativity:** Building on team members' ideas
+##### 💡 Pensamiento Creativo:
+- **Soluciones fuera de lo convencional:** desafiar enfoques tradicionales
+- **Inspiración entre dominios:** aplicar conceptos de otros campos
+- **Replanteamiento de restricciones:** convertir limitaciones en oportunidades
+- **Creatividad colaborativa:** construir sobre las ideas del equipo
 
 ---
 
@@ -250,76 +250,76 @@ Decision threshold: >3.5 average to proceed
 
 #### Competencias Desarrolladas:
 
-##### 📖 Auto-directed Learning:
-**New Technologies Mastered:**
-- **TypeScript:** From zero to proficient en 3 weeks (Guillermo y Carlos)
-- **React Hooks:** Advanced patterns learned through practice (Ana y Valeria)
-- **Zustand State Management:** Self-taught through documentation y experimentation (Edrick)
-- **Tailwind CSS:** Efficient styling approach learned independently (Valeria)
-- **Testing Library:** Comprehensive testing approach mastered (Ana)
+##### 📖 Aprendizaje Autodirigido:
+**Nuevas tecnologías dominadas:**
+- **TypeScript:** de cero a competente en 3 semanas (Guillermo y Carlos)
+- **React Hooks:** patrones avanzados aprendidos mediante la práctica (Ana y Valeria)
+- **Gestión de estado con Zustand:** autodidacta a través de documentación y experimentación (Edrick)
+- **Tailwind CSS:** enfoque eficiente de estilos aprendido de forma independiente (Valeria)
+- **Testing Library:** enfoque integral de pruebas dominado (Ana)
 
-**Learning Methodology:**
-1. **Identify knowledge gaps** through project requirements
-2. **Research learning resources** (docs, tutorials, courses)
-3. **Hands-on experimentation** with small projects
-4. **Knowledge sharing** con team through demos
-5. **Integration** into main project con peer review
+**Metodología de aprendizaje:**
+1. **Identificar brechas de conocimiento** a partir de los requisitos del proyecto
+2. **Investigar recursos de aprendizaje** (documentación, tutoriales, cursos)
+3. **Experimentación práctica** con proyectos pequeños
+4. **Intercambio de conocimiento** con el equipo mediante demostraciones
+5. **Integración** en el proyecto principal con revisión por pares
 
 ##### 🔄 Adaptación a Cambios:
 
-**Major Adaptations Made:**
+**Adaptaciones principales realizadas:**
 
-**Change:** Initial backend plan (Python/Django) switched to Node.js/Express
-- **Reason:** Team JavaScript expertise y faster development
-- **Adaptation process:** Research, team discussion, migration planning
-- **Outcome:** 30% faster development velocity
-- **Learning:** Flexibility en technology choices based on team strengths
+**Cambio:** El plan inicial de backend (Python/Django) cambió a Node.js/Express
+- **Razón:** experiencia del equipo en JavaScript y mayor rapidez de desarrollo
+- **Proceso de adaptación:** investigación, discusión en equipo, planificación de la migración
+- **Resultado:** 30% más de velocidad de desarrollo
+- **Aprendizaje:** flexibilidad en elecciones tecnológicas basada en las fortalezas del equipo
 
-**Change:** Requirements evolution based on user feedback  
-- **Reason:** Early user testing revealed different needs
-- **Adaptation process:** Requirements re-prioritization y feature adjustment
-- **Outcome:** Better product-market fit
-- **Learning:** Iterative development y user-centric approach
+**Cambio:** Evolución de requisitos basada en retroalimentación de usuarios  
+- **Razón:** las pruebas tempranas revelaron necesidades diferentes
+- **Proceso de adaptación:** repriorización de requisitos y ajuste de funcionalidades
+- **Resultado:** mejor ajuste producto-mercado
+- **Aprendizaje:** desarrollo iterativo y enfoque centrado en el usuario
 
-**Change:** Remote collaboration due to academic schedule conflicts
-- **Reason:** Different class schedules y availability
-- **Adaptation process:** Process adjustment y async tools adoption
-- **Outcome:** Maintained productivity despite physical distance
-- **Learning:** Digital collaboration skills y flexible team dynamics
+**Cambio:** Colaboración remota debido a conflictos de horarios académicos
+- **Razón:** distintos horarios y disponibilidad
+- **Proceso de adaptación:** ajuste de procesos y adopción de herramientas asíncronas
+- **Resultado:** se mantuvo la productividad pese a la distancia física
+- **Aprendizaje:** habilidades de colaboración digital y dinámica de equipo flexible
 
-#### Self-Assessment y Growth:
+#### Autoevaluación y Crecimiento:
 
-##### 📈 Personal Development Tracking:
+##### 📈 Seguimiento del Desarrollo Personal:
 
 **Carlos García:**
-- **Starting point:** Strong programming basics, limited full-stack experience
-- **Growth areas:** Frontend development, user experience thinking, team coordination
-- **Evidence:** Successfully led 3 complex features end-to-end
-- **Next level:** Architecture design y mentoring other developers
+- **Punto de partida:** bases sólidas de programación, experiencia limitada en full-stack
+- **Áreas de crecimiento:** desarrollo frontend, pensamiento de experiencia de usuario, coordinación de equipo
+- **Evidencia:** lideró con éxito 3 funcionalidades complejas de extremo a extremo
+- **Siguiente nivel:** diseño de arquitectura y mentoría a otros desarrolladores
 
 **Ana Lavadores:**
-- **Starting point:** Good analytical skills, limited software testing experience  
-- **Growth areas:** Quality assurance, process improvement, team facilitation
-- **Evidence:** Established testing standards that improved code quality 40%
-- **Next level:** Quality management y continuous improvement leadership
+- **Punto de partida:** buenas habilidades analíticas, experiencia limitada en pruebas de software  
+- **Áreas de crecimiento:** aseguramiento de calidad, mejora de procesos, facilitación de equipo
+- **Evidencia:** estableció estándares de pruebas que mejoraron la calidad del código en un 40%
+- **Siguiente nivel:** gestión de calidad y liderazgo de mejora continua
 
 **Guillermo Cárdenas:**
-- **Starting point:** Solid technical foundation, preferred solo work
-- **Growth areas:** Team collaboration, project management, infrastructure thinking
-- **Evidence:** Successfully facilitated 8 team ceremonies y resolved 12 major blockers
-- **Next level:** Technical leadership y mentoring
+- **Punto de partida:** base técnica sólida, preferencia por el trabajo individual
+- **Áreas de crecimiento:** colaboración en equipo, gestión de proyectos, pensamiento de infraestructura
+- **Evidencia:** facilitó 8 ceremonias de equipo y resolvió 12 bloqueos mayores
+- **Siguiente nivel:** liderazgo técnico y mentoría
 
 **Valeria Hernández:**
-- **Starting point:** Design background, limited development experience
-- **Growth areas:** User research, frontend development, cross-functional collaboration  
-- **Evidence:** Created comprehensive user research informing product decisions
-- **Next level:** Product management y user experience strategy
+- **Punto de partida:** formación en diseño, experiencia limitada en desarrollo
+- **Áreas de crecimiento:** investigación de usuarios, desarrollo frontend, colaboración multifuncional  
+- **Evidencia:** desarrolló una investigación de usuarios integral que informó decisiones de producto
+- **Siguiente nivel:** gestión de producto y estrategia de experiencia de usuario
 
 **Edrick Torres:**
-- **Starting point:** Strong research skills, limited practical software development
-- **Growth areas:** Full-stack development, documentation, strategic thinking
-- **Evidence:** Built comprehensive documentation system y configuration management
-- **Next level:** Technical writing y developer experience
+- **Punto de partida:** fuertes habilidades de investigación, experiencia práctica limitada en desarrollo de software
+- **Áreas de crecimiento:** desarrollo full-stack, documentación, pensamiento estratégico
+- **Evidencia:** construyó un sistema integral de documentación y gestión de configuración
+- **Siguiente nivel:** redacción técnica y experiencia del desarrollador (DX)
 
 ---
 
@@ -329,66 +329,66 @@ Decision threshold: >3.5 average to proceed
 
 #### Competencias Desarrolladas:
 
-##### 🔍 Awareness de Context Global:
-**Technology Landscape Understanding:**
-- **Global trends:** Understanding de productivity apps market y mental health awareness
-- **Best practices:** Research de international standards en software development
-- **Cultural sensitivity:** Designing solutions that could work across different cultures
-- **Accessibility:** Universal design principles para inclusive user experience
+##### 🔍 Conciencia del Contexto Global:
+**Comprensión del panorama tecnológico:**
+- **Tendencias globales:** comprensión del mercado de apps de productividad y de la concienciación sobre salud mental
+- **Mejores prácticas:** investigación de estándares internacionales en desarrollo de software
+- **Sensibilidad cultural:** diseño de soluciones que puedan funcionar en diferentes culturas
+- **Accesibilidad:** principios de diseño universal para una experiencia de usuario inclusiva
 
-**Evidence:**
-- ✅ **International research** de competitors y similar solutions globally
-- ✅ **Accessibility standards** implementation (WCAG compliance)
-- ✅ **Multi-language design** considerations en UI architecture
-- ✅ **Global development practices** adopted (Agile, CI/CD, code standards)
+**Evidencias:**
+- ✅ **Investigación internacional** de competidores y soluciones similares a nivel global
+- ✅ **Implementación de estándares de accesibilidad** (cumplimiento de WCAG)
+- ✅ **Consideraciones de diseño multilingüe** en la arquitectura de la interfaz
+- ✅ **Prácticas de desarrollo globales** adoptadas (Ágil, CI/CD, estándares de código)
 
-##### 🌐 Cross-Cultural Collaboration Skills:
-Aunque nuestro team es local, hemos desarrollado skills aplicables a global teams:
-- **Documentation standards:** Clear, comprehensive documentation que podría support remote international collaboration
-- **Asynchronous communication:** Practices que work across time zones
-- **Cultural awareness:** Consideration de different work styles y preferences within our team
-- **Inclusive design:** UI/UX que considers different user backgrounds y needs
+##### 🌐 Habilidades de Colaboración Intercultural:
+Aunque nuestro equipo es local, hemos desarrollado habilidades aplicables a equipos globales:
+- **Estándares de documentación:** documentación clara y completa que podría respaldar la colaboración internacional remota
+- **Comunicación asíncrona:** prácticas que funcionan entre husos horarios
+- **Conciencia cultural:** consideración de diferentes estilos y preferencias de trabajo dentro del equipo
+- **Diseño inclusivo:** UI/UX que considera distintos orígenes y necesidades de los usuarios
 
 ### 🤝 Responsabilidad Social
 
 #### Impacto Social del Proyecto:
 
-##### 💚 Mental Health Awareness:
-**Problem Addressed:**
-Student mental health crisis, especialmente relacionado con academic pressure y productivity anxiety
+##### 💚 Concienciación sobre la Salud Mental:
+**Problema abordado:**
+Crisis de salud mental estudiantil, especialmente relacionada con la presión académica y la ansiedad por la productividad
 
-**Our Solution Approach:**
-- **Wellness integration:** Promoting balanced approach to productivity
-- **Break reminders:** Encouraging healthy work habits
-- **Mood tracking:** Supporting self-awareness y mental health monitoring  
-- **Gamification positiva:** Motivation without toxic productivity culture
+**Nuestro enfoque de solución:**
+- **Integración de bienestar:** promover un enfoque equilibrado de la productividad
+- **Recordatorios de descanso:** fomentar hábitos de trabajo saludables
+- **Seguimiento del estado de ánimo:** apoyar la autoconciencia y el monitoreo de la salud mental  
+- **Gamificación positiva:** motivación sin fomentar una cultura de productividad tóxica
 
-**Social Impact Evidence:**
-- ✅ **8 de 10 test users** reported feeling less stressed about task management
-- ✅ **Positive feedback** on wellness integration from mental health advocates
-- ✅ **Educational component:** App encourages learning about work-life balance
-- ✅ **Community building:** Features promote collaboration over competition
+**Evidencias de impacto social:**
+- ✅ **8 de cada 10 usuarios de prueba** reportaron sentirse menos estresados con la gestión de tareas
+- ✅ **Retroalimentación positiva** sobre la integración de bienestar por parte de defensores de la salud mental
+- ✅ **Componente educativo:** la app fomenta el aprendizaje sobre el equilibrio vida-trabajo
+- ✅ **Construcción de comunidad:** las funciones promueven la colaboración sobre la competencia
 
-##### 🎓 Educational Impact:
-**Contribution to Academic Community:**
-- **Open source approach:** Planning to make components available para other student projects
-- **Knowledge sharing:** Comprehensive documentation que puede serve como learning resource
-- **Best practices demonstration:** Showing effective team collaboration en academic setting
-- **Accessibility advocacy:** Demonstrating importance de inclusive design
+##### 🎓 Impacto Educativo:
+**Contribución a la comunidad académica:**
+- **Enfoque de código abierto:** plan de poner componentes a disposición de otros proyectos estudiantiles
+- **Intercambio de conocimiento:** documentación integral que puede servir como recurso de aprendizaje
+- **Demostración de buenas prácticas:** mostrar colaboración de equipo efectiva en un entorno académico
+- **Promoción de la accesibilidad:** demostrar la importancia del diseño inclusivo
 
-#### Ethical Considerations:
+#### Consideraciones Éticas:
 
-##### 🔒 Privacy y Data Protection:
-- **Data minimization:** Only collecting necessary information
-- **Transparency:** Clear communication sobre what data is collected y how it's used
-- **User control:** Settings allowing users to control their data sharing
-- **Security first:** Implementation de proper security measures from day one
+##### 🔒 Privacidad y Protección de Datos:
+- **Minimización de datos:** recopilación solo de la información necesaria
+- **Transparencia:** comunicación clara sobre qué datos se recopilan y cómo se usan
+- **Control del usuario:** configuraciones que permiten a los usuarios controlar el intercambio de sus datos
+- **Seguridad primero:** implementación de medidas de seguridad adecuadas desde el primer día
 
-##### ⚖️ Ethical Technology Use:
-- **Positive reinforcement:** Gamification designed to motivate, not manipulate
-- **Mental health priority:** Features designed to support, not exploit user psychology
-- **Inclusive design:** Ensuring accessibility para users with different abilities
-- **Sustainable development:** Code practices que support long-term maintainability
+##### ⚖️ Uso Ético de la Tecnología:
+- **Refuerzo positivo:** gamificación diseñada para motivar, no manipular
+- **Prioridad a la salud mental:** funciones diseñadas para apoyar, no explotar la psicología del usuario
+- **Diseño inclusivo:** garantizar la accesibilidad para personas con distintas capacidades
+- **Desarrollo sostenible:** prácticas de código que respaldan la mantenibilidad a largo plazo
 
 ---
 
@@ -398,36 +398,36 @@ Student mental health crisis, especialmente relacionado con academic pressure y 
 
 #### Competencias Transversales Desarrolladas:
 
-##### 🎯 Meta-competencias:
-- **Learning how to learn:** Developed systematic approaches para acquiring new skills
-- **Adaptability:** Comfort with ambiguity y changing requirements
-- **Systems thinking:** Understanding como different components interact
-- **Reflection practice:** Regular self-assessment y improvement planning
+##### 🎯 Metacompetencias:
+- **Aprender a aprender:** desarrollo de enfoques sistemáticos para adquirir nuevas habilidades
+- **Adaptabilidad:** comodidad con la ambigüedad y los requisitos cambiantes
+- **Pensamiento sistémico:** comprensión de cómo interactúan los distintos componentes
+- **Práctica de reflexión:** autoevaluación regular y planificación de mejoras
 
-##### 🌟 Professional Skills Integration:
-La combinación de todas las competencias genéricas has created a strong foundation para professional development:
+##### 🌟 Integración de Habilidades Profesionales:
+La combinación de todas las competencias genéricas ha creado una base sólida para el desarrollo profesional:
 
-**Communication + Teamwork = Effective Collaboration**
-**Critical Thinking + Problem Solving = Innovation Capacity**  
-**Learning + Adaptability = Growth Mindset**
-**Global Thinking + Social Responsibility = Ethical Leadership**
+**Comunicación + Trabajo en equipo = Colaboración efectiva**  
+**Pensamiento crítico + Resolución de problemas = Capacidad de innovación**  
+**Aprendizaje + Adaptabilidad = Mentalidad de crecimiento**  
+**Pensamiento global + Responsabilidad social = Liderazgo ético**
 
-#### Future Application:
+#### Aplicación Futura:
 
-##### 🚀 Career Readiness:
-These competencias prepare us para:
-- **Software engineering roles** con strong collaboration skills
-- **Leadership positions** early en career due to demonstrated leadership experience  
-- **Consulting roles** given problem-solving y communication capabilities
-- **International opportunities** due to global perspective y cultural awareness
-- **Entrepreneurship** given the complete skill set developed
+##### 🚀 Preparación Profesional:
+Estas competencias nos preparan para:
+- **Roles de ingeniería de software** con fuertes habilidades de colaboración
+- **Puestos de liderazgo** tempranos en la carrera debido a la experiencia demostrada de liderazgo  
+- **Roles de consultoría** gracias a la resolución de problemas y la comunicación
+- **Oportunidades internacionales** debido a la perspectiva global y la sensibilidad cultural
+- **Emprendimiento** dada la combinación completa de habilidades desarrolladas
 
-##### 📈 Continued Development Plan:
-- **Advanced technical leadership** building on project management experience
-- **Cross-cultural collaboration** seeking opportunities for international projects
-- **Social impact technology** combining technical skills con social responsibility
-- **Mentoring y teaching** sharing knowledge con future students
-- **Innovation y research** applying critical thinking to new domains
+##### 📈 Plan de Desarrollo Continuo:
+- **Liderazgo técnico avanzado** aprovechando la experiencia en gestión de proyectos
+- **Colaboración intercultural** buscando oportunidades en proyectos internacionales
+- **Tecnología con impacto social** combinando habilidades técnicas con responsabilidad social
+- **Mentoría y docencia** compartiendo conocimiento con futuros estudiantes
+- **Innovación e investigación** aplicando el pensamiento crítico a nuevos dominios
 
 ---
 
@@ -438,4 +438,4 @@ These competencias prepare us para:
 
 ---
 
-*Competencias genéricas desarrolladas a través de la práctica real y reflexión continua* 🌟✨
+*Competencias genéricas desarrolladas a través de la práctica real y la reflexión continua* 🌟✨
