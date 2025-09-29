@@ -2,7 +2,7 @@
 
 ## Competencias Técnicas Fundamentales
 
-A través del desarrollo del proyecto CHRONOS, hemos desarrollado y aplicado competencias específicas esenciales para el ejercicio profesional de la Ingeniería de Software, siguiendo los estándares académicos y de la industria.
+A través del desarrollo del proyecto CHRONOS, hemos desarrollado y aplicado competencias específicas esenciales para el ejercicio profesional de la Ingeniería de Software, siguiendo los estándares[...]
 
 ---
 
@@ -12,19 +12,19 @@ A través del desarrollo del proyecto CHRONOS, hemos desarrollado y aplicado com
 
 #### JavaScript/TypeScript - Nivel Avanzado
 
-**Competencias Desarrolladas:**
+**Competencias desarrolladas:**
 
-##### 🎯 **JavaScript Moderno (ES6+):**
+##### 🎯 **JavaScript moderno (ES6+):**
 **Carlos Cauich:**
-- **Arrow functions y destructuring:** Uso extensivo en components y services
-- **Async/await patterns:** Manejo de API calls y asynchronous operations
-- **Module systems:** ES6 imports/exports para clean architecture
-- **Array methods avanzados:** map, filter, reduce para data manipulation
-- **Template literals:** Dynamic content generation y SQL-like queries
+- **Funciones flecha y destructuring:** Uso extensivo en componentes y servicios
+- **Patrones async/await:** Manejo de llamadas a APIs y operaciones asíncronas
+- **Sistemas de módulos:** Imports/exports de ES6 para una arquitectura limpia
+- **Métodos de arrays avanzados:** map, filter, reduce para manipulación de datos
+- **Template literals:** Generación de contenido dinámico y consultas tipo SQL
 
 **Evidencias de código:**
 ```javascript
-// Task service con async/await y error handling
+// Servicio de tareas con async/await y manejo de errores
 export const taskService = {
   async fetchTasks(): Promise<Task[]> {
     try {
@@ -32,20 +32,20 @@ export const taskService = {
       const tasks = await response.json();
       return tasks.filter(task => task.isActive);
     } catch (error) {
-      console.error('Error fetching tasks:', error);
-      throw new Error('Failed to load tasks');
+      console.error('Error al obtener tareas:', error);
+      throw new Error('No se pudieron cargar las tareas');
     }
   }
 };
 ```
 
-##### 🔷 **TypeScript - Type Safety:**
+##### 🔷 **TypeScript - Seguridad de tipos:**
 **Guillermo Peña:**
-- **Interface definitions:** Strong typing para all data models
-- **Generic types:** Reusable components con type safety
-- **Union types:** Flexible yet safe type definitions  
-- **Type guards:** Runtime type checking para safer code
-- **Advanced types:** Conditional types, mapped types para complex scenarios
+- **Definición de interfaces:** Tipado estricto para todos los modelos de datos
+- **Tipos genéricos:** Componentes reutilizables con seguridad de tipos
+- **Tipos unión:** Definiciones de tipos flexibles pero seguras
+- **Guardianes de tipos:** Comprobación de tipos en tiempo de ejecución para un código más seguro
+- **Tipos avanzados:** Tipos condicionales, tipos mapeados para escenarios complejos
 
 **Evidencias de código:**
 ```typescript
@@ -61,35 +61,35 @@ interface Task {
 type TaskPriority = 'low' | 'medium' | 'high' | 'urgent';
 type TaskStatus = 'pending' | 'in-progress' | 'completed' | 'cancelled';
 
-// Generic hook para reusable logic
+// Hook genérico para lógica reutilizable
 function useAsyncState<T>(initialState: T) {
   const [state, setState] = useState<T>(initialState);
   const [isLoading, setIsLoading] = useState(false);
-  // ... implementation
+  // ... implementación
 }
 ```
 
-#### Frontend Development - React Ecosystem
+#### Desarrollo Frontend - Ecosistema React
 
-##### ⚛️ **React Hooks y Patterns:**
+##### ⚛️ **React Hooks y Patrones:**
 **Ana Lavadores y Valeria Itza:**
 
-**Hooks Mastery:**
-- **useState:** Complex state management con objects y arrays
-- **useEffect:** Lifecycle management, cleanup, dependencies
-- **useContext:** Global state sharing sin prop drilling
-- **useMemo/useCallback:** Performance optimization
-- **Custom hooks:** Reusable logic encapsulation
+**Dominio de Hooks:**
+- **useState:** Gestión de estado compleja con objetos y arreglos
+- **useEffect:** Gestión del ciclo de vida, limpieza, dependencias
+- **useContext:** Estado global sin prop drilling
+- **useMemo/useCallback:** Optimización de rendimiento
+- **Hooks personalizados:** Encapsulación de lógica reutilizable
 
-**Advanced Patterns:**
-- **Render props:** Component composition patterns
-- **Higher-order components:** Cross-cutting concerns
-- **Error boundaries:** Graceful error handling
-- **Suspense:** Loading states y code splitting
+**Patrones avanzados:**
+- **Render props:** Patrones de composición de componentes
+- **Componentes de orden superior (HOC):** Preocupaciones transversales
+- **Límites de error (Error boundaries):** Manejo elegante de errores
+- **Suspense:** Estados de carga y división de código
 
 **Evidencias de implementación:**
 ```typescript
-// Custom hook para task management
+// Hook personalizado para la gestión de tareas
 function useTaskManager() {
   const [tasks, setTasks] = useState<Task[]>([]);
   const [filter, setFilter] = useState<TaskFilter>('all');
@@ -111,52 +111,52 @@ function useTaskManager() {
 }
 ```
 
-##### 🎨 **Styling y UI Development:**
+##### 🎨 **Estilos y Desarrollo de UI:**
 **Valeria Itza:**
 
-**Tailwind CSS Expertise:**
-- **Utility-first approach:** Rapid prototyping y consistent design
-- **Responsive design:** Mobile-first con breakpoint system
-- **Custom theme:** Brand colors, typography, spacing system
-- **Component variants:** Reusable component styles
-- **Performance optimization:** PurgeCSS para minimal bundle size
+**Dominio de Tailwind CSS:**
+- **Enfoque utility-first:** Prototipado rápido y diseño consistente
+- **Diseño responsivo:** Mobile-first con sistema de breakpoints
+- **Tema personalizado:** Colores de marca, tipografía, sistema de espaciado
+- **Variantes de componentes:** Estilos de componentes reutilizables
+- **Optimización de rendimiento:** PurgeCSS para un tamaño de bundle mínimo
 
-**CSS-in-JS Patterns:**
-- **Styled components:** Dynamic styling based on props
-- **CSS Modules:** Scoped styling para component isolation
-- **Animation libraries:** Framer Motion para smooth interactions
+**Patrones CSS-in-JS:**
+- **Styled Components:** Estilos dinámicos basados en props
+- **CSS Modules:** Estilos con alcance para aislar componentes
+- **Librerías de animación:** Framer Motion para interacciones fluidas
 
 ### 🏗️ Arquitectura de Software
 
-#### Frontend Architecture Patterns
+#### Patrones de Arquitectura Frontend
 
-##### 📦 **Component-Based Architecture:**
+##### 📦 **Arquitectura basada en componentes:**
 **Diseñado por:** Carlos Cauich y Valeria Itza
 
-**Architectural Decisions:**
+**Decisiones de arquitectura:**
 
-**Atomic Design Implementation:**
+**Implementación de Atomic Design:**
 ```
 src/components/
-├── atoms/          # Basic building blocks (Button, Input)  
-├── molecules/      # Simple combinations (SearchBox, TaskCard)
-├── organisms/      # Complex UI sections (TaskList, Header)
-├── templates/      # Page layouts
-└── pages/          # Complete pages
+├── atoms/          # Bloques básicos (Button, Input)  
+├── molecules/      # Combinaciones simples (SearchBox, TaskCard)
+├── organisms/      # Secciones de UI complejas (TaskList, Header)
+├── templates/      # Diseños de página
+└── pages/          # Páginas completas
 ```
 
-**Benefits Achieved:**
-- ✅ **95% component reusability** across different pages
-- ✅ **Consistent UI** through shared design system
-- ✅ **Easy testing** of individual components
-- ✅ **Scalable development** with clear component hierarchy
+**Beneficios alcanzados:**
+- ✅ **95% de reutilización de componentes** entre distintas páginas
+- ✅ **UI consistente** mediante un sistema de diseño compartido
+- ✅ **Pruebas sencillas** de componentes individuales
+- ✅ **Desarrollo escalable** con jerarquía de componentes clara
 
-##### 🔄 **State Management Architecture:**
+##### 🔄 **Arquitectura de gestión de estado:**
 **Implementado por:** Guillermo Peña
 
-**Zustand Store Design:**
+**Diseño de store con Zustand:**
 ```typescript
-// Modular store slices
+// Slices modulares del store
 interface AppState {
   auth: AuthState;
   tasks: TaskState;
@@ -165,13 +165,13 @@ interface AppState {
   ui: UIState;
 }
 
-// Individual slice ejemplo
+// Slice individual - ejemplo
 const taskSlice = (set, get) => ({
   tasks: [],
   isLoading: false,
   error: null,
   
-  // Actions
+  // Acciones
   fetchTasks: async () => {
     set({ isLoading: true });
     try {
@@ -184,108 +184,108 @@ const taskSlice = (set, get) => ({
 });
 ```
 
-**Architecture Benefits:**
-- ✅ **Predictable state updates** through centralized management
-- ✅ **Performance optimization** con selective subscriptions
-- ✅ **Developer experience** con Redux DevTools integration
-- ✅ **Testing friendly** con isolated state logic
+**Beneficios de la arquitectura:**
+- ✅ **Actualizaciones de estado predecibles** mediante gestión centralizada
+- ✅ **Optimización de rendimiento** con suscripciones selectivas
+- ✅ **Mejor experiencia de desarrollo** con integración de Redux DevTools
+- ✅ **Facilidad de pruebas** con lógica de estado aislada
 
-#### Backend Architecture Understanding
+#### Comprensión de la Arquitectura Backend
 
-##### 🌐 **API Design Principles:**
+##### 🌐 **Principios de diseño de API:**
 **Aplicado por:** Edrick Puc
 
-**RESTful API Design:**
+**Diseño de API RESTful:**
 ```
-GET    /api/tasks              # Fetch all user tasks
-POST   /api/tasks              # Create new task  
-PUT    /api/tasks/:id          # Update specific task
-DELETE /api/tasks/:id          # Delete specific task
-GET    /api/tasks/:id/history  # Task activity history
+GET    /api/tasks              # Obtener todas las tareas del usuario
+POST   /api/tasks              # Crear una nueva tarea  
+PUT    /api/tasks/:id          # Actualizar una tarea específica
+DELETE /api/tasks/:id          # Eliminar una tarea específica
+GET    /api/tasks/:id/history  # Historial de actividad de la tarea
 ```
 
-**API Standards Implemented:**
-- **Consistent response format:** Standard success/error patterns
-- **HTTP status codes:** Proper semantic usage
-- **Request validation:** Input sanitization y validation
-- **Error handling:** Comprehensive error response patterns
-- **API versioning:** Future-proof API evolution strategy
+**Estándares de API implementados:**
+- **Formato de respuesta consistente:** Patrones estándar de éxito/error
+- **Códigos de estado HTTP:** Uso semántico adecuado
+- **Validación de solicitudes:** Sanitización y validación de entradas
+- **Manejo de errores:** Patrones completos de respuesta de error
+- **Versionado de API:** Estrategia de evolución preparada para el futuro
 
 ---
 
 ## 🧪 Pruebas de Software (Software Testing)
 
-### 🔬 Testing Strategy y Implementation
+### 🔬 Estrategia de pruebas e implementación
 
-#### Unit Testing Mastery
+#### Dominio de pruebas unitarias
 **Liderado por:** Ana Lavadores
 
 ##### 📋 **Jest y Testing Library:**
 
-**Component Testing:**
+**Pruebas de componentes:**
 ```typescript
-// TaskCard component test
+// Prueba del componente TaskCard
 import { render, screen, fireEvent } from '@testing-library/react';
 import { TaskCard } from './TaskCard';
 
-describe('TaskCard Component', () => {
+describe('Componente TaskCard', () => {
   const mockTask = {
     id: '1',
-    title: 'Test Task',
+    title: 'Tarea de prueba',
     status: 'pending',
     priority: 'high'
   };
   
-  it('renders task information correctly', () => {
+  it('renderiza correctamente la información de la tarea', () => {
     render(<TaskCard task={mockTask} onComplete={jest.fn()} />);
     
-    expect(screen.getByText('Test Task')).toBeInTheDocument();
-    expect(screen.getByText('High Priority')).toBeInTheDocument();
+    expect(screen.getByText('Tarea de prueba')).toBeInTheDocument();
+    expect(screen.getByText('Alta prioridad')).toBeInTheDocument();
   });
   
-  it('calls onComplete when complete button is clicked', () => {
+  it('llama a onComplete cuando se hace clic en el botón de completar', () => {
     const mockOnComplete = jest.fn();
     render(<TaskCard task={mockTask} onComplete={mockOnComplete} />);
     
-    fireEvent.click(screen.getByRole('button', { name: /complete/i }));
+    fireEvent.click(screen.getByRole('button', { name: /completar/i }));
     expect(mockOnComplete).toHaveBeenCalledWith('1');
   });
 });
 ```
 
-**Hook Testing:**
+**Pruebas de hooks:**
 ```typescript
 import { renderHook, act } from '@testing-library/react';
 import { useTaskManager } from './useTaskManager';
 
-describe('useTaskManager Hook', () => {
-  it('should add new task to the list', async () => {
+describe('Hook useTaskManager', () => {
+  it('debe agregar una nueva tarea a la lista', async () => {
     const { result } = renderHook(() => useTaskManager());
     
     await act(async () => {
       await result.current.addTask({
-        title: 'New Task',
+        title: 'Nueva tarea',
         priority: 'medium'
       });
     });
     
     expect(result.current.tasks).toHaveLength(1);
-    expect(result.current.tasks[0].title).toBe('New Task');
+    expect(result.current.tasks[0].title).toBe('Nueva tarea');
   });
 });
 ```
 
-#### Integration Testing
+#### Pruebas de integración
 
-##### 🔗 **API Integration Tests:**
+##### 🔗 **Pruebas de integración de API:**
 **Implementado por:** Carlos Cauich y Edrick Puc
 
-**Service Integration Testing:**
+**Pruebas de integración de servicios:**
 ```typescript
-// API service integration test
-describe('Task API Integration', () => {
+// Prueba de integración del servicio de API
+describe('Integración de la API de Tareas', () => {
   beforeEach(() => {
-    // Mock API server setup
+    // Configuración del servidor API simulado
     server.use(
       rest.get('/api/tasks', (req, res, ctx) => {
         return res(ctx.json(mockTasks));
@@ -293,7 +293,7 @@ describe('Task API Integration', () => {
     );
   });
   
-  it('should fetch tasks successfully', async () => {
+  it('debe obtener las tareas correctamente', async () => {
     const tasks = await taskService.fetchTasks();
     
     expect(tasks).toHaveLength(3);
@@ -306,53 +306,53 @@ describe('Task API Integration', () => {
 });
 ```
 
-#### End-to-End Testing Strategy
+#### Estrategia de pruebas de extremo a extremo
 
-##### 🎯 **User Journey Testing:**
+##### 🎯 **Prueba del recorrido del usuario:**
 **Diseñado por:** Ana Lavadores
 
-**Critical User Flows:**
-1. **User Onboarding:** Registration → Profile Setup → First Task
-2. **Daily Workflow:** Login → View Tasks → Complete Task → Check Progress
-3. **Wellness Integration:** Set Wellness Goal → Track Mood → Receive Recommendations
-4. **Gamification:** Complete Tasks → Earn Points → Check Leaderboard → Unlock Achievement
+**Flujos de usuario críticos:**
+1. **Incorporación de usuario:** Registro → Configuración de perfil → Primera tarea
+2. **Flujo diario:** Inicio de sesión → Ver tareas → Completar tarea → Consultar progreso
+3. **Bienestar:** Definir meta de bienestar → Registrar estado de ánimo → Recibir recomendaciones
+4. **Gamificación:** Completar tareas → Ganar puntos → Ver tablero → Desbloquear logro
 
-**E2E Test Implementation Framework:**
+**Marco de implementación de pruebas E2E:**
 ```typescript
-// Cypress E2E test ejemplo
-describe('Task Management Flow', () => {
-  it('should allow user to create and complete a task', () => {
+// Ejemplo de prueba E2E con Cypress
+describe('Flujo de gestión de tareas', () => {
+  it('debe permitir al usuario crear y completar una tarea', () => {
     cy.visit('/dashboard');
     cy.get('[data-testid="create-task-button"]').click();
-    cy.get('[data-testid="task-title-input"]').type('Complete project documentation');
+    cy.get('[data-testid="task-title-input"]').type('Completar la documentación del proyecto');
     cy.get('[data-testid="task-priority-select"]').select('high');
     cy.get('[data-testid="create-task-submit"]').click();
     
-    // Verify task appears in list
-    cy.contains('Complete project documentation').should('be.visible');
+    // Verificar que la tarea aparezca en la lista
+    cy.contains('Completar la documentación del proyecto').should('be.visible');
     
-    // Complete the task  
+    // Completar la tarea
     cy.get('[data-testid="complete-task-1"]').click();
-    cy.get('[data-testid="task-status-1"]').should('contain', 'Completed');
+    cy.get('[data-testid="task-status-1"]').should('contain', 'Completada');
   });
 });
 ```
 
-#### Testing Metrics y Quality Assurance
+#### Métricas de pruebas y aseguramiento de calidad
 
-##### 📊 **Coverage y Quality Metrics:**
+##### 📊 **Cobertura y métricas de calidad:**
 **Monitoreado por:** Ana Lavadores
 
-**Current Testing Metrics:**
-- **Unit Test Coverage:** 78% (target: 80%)
-- **Integration Test Coverage:** 65% (target: 70%)  
-- **E2E Critical Path Coverage:** 90% (target: 95%)
-- **Test Execution Time:** <45 segundos para full suite
-- **Test Reliability:** 98% pass rate (flaky test management)
+**Métricas de pruebas actuales:**
+- **Cobertura de pruebas unitarias:** 78% (objetivo: 80%)
+- **Cobertura de pruebas de integración:** 65% (objetivo: 70%)  
+- **Cobertura de rutas críticas E2E:** 90% (objetivo: 95%)
+- **Tiempo de ejecución de pruebas:** <45 segundos para toda la suite
+- **Confiabilidad de las pruebas:** 98% de éxito (gestión de pruebas inestables)
 
-**Quality Gates Implementation:**
+**Implementación de umbrales de calidad:**
 ```yaml
-# GitHub Actions testing pipeline
+# Pipeline de pruebas en GitHub Actions
 test_quality_gates:
   - unit_tests: required, min_coverage: 75%
   - integration_tests: required, min_coverage: 60%
@@ -365,112 +365,112 @@ test_quality_gates:
 
 ## 🔧 Metodologías de Desarrollo
 
-### 🏃‍♂️ Metodologías Ágiles - Scrum Implementation
+### 🏃‍♂️ Metodologías Ágiles - Implementación de Scrum
 
-#### Scrum Framework Mastery
+#### Dominio del marco Scrum
 **Implementado por todo el equipo, coordinado por:** Guillermo Peña
 
 ##### 📅 **Ceremonias Scrum:**
 
-**Sprint Planning Excellence:**
-- **Planning Poker:** Estimation con Planning Poker technique
-- **Story Point Estimation:** Fibonacci sequence para complexity estimation
-- **Sprint Goal Definition:** Clear, measurable objectives para cada sprint
-- **Capacity Planning:** Team velocity-based commitment
+**Excelencia en la planificación del sprint (Sprint Planning):**
+- **Planning Poker:** Estimación con la técnica Planning Poker
+- **Estimación por Puntos de Historia:** Secuencia de Fibonacci para estimar complejidad
+- **Definición del Objetivo de Sprint:** Objetivos claros y medibles para cada sprint
+- **Planificación de capacidad:** Compromiso basado en la velocidad del equipo
 
-**Evidencias de Planning:**
+**Evidencias de planificación:**
 ```markdown
-## Sprint 2 Planning Summary
+## Resumen de Planificación del Sprint 2
 
-**Sprint Goal:** Implement core task management con basic gamification
-**Team Capacity:** 25 story points (based en historical velocity)
+**Objetivo del Sprint:** Implementar la gestión de tareas principal con gamificación básica
+**Capacidad del equipo:** 25 puntos de historia (basado en la velocidad histórica)
 
-**Story Point Breakdown:**
-- Task CRUD operations: 8 points
-- Points system integration: 5 points  
-- User profile enhancement: 3 points
-- Testing y bug fixes: 4 points
-- Documentation updates: 2 points
-- Buffer para unexpected work: 3 points
+**Desglose de puntos de historia:**
+- Operaciones CRUD de tareas: 8 puntos
+- Integración del sistema de puntos: 5 puntos  
+- Mejora del perfil de usuario: 3 puntos
+- Pruebas y corrección de errores: 4 puntos
+- Actualizaciones de documentación: 2 puntos
+- Buffer para trabajo inesperado: 3 puntos
 
-**Total Committed:** 25 points
+**Total comprometido:** 25 puntos
 ```
 
-**Daily Standup Effectiveness:**
-- **Time-boxed:** Consistently 15 minutes o menos
-- **Focus:** Yesterday's work, today's plan, impediments
-- **Impediment Tracking:** 95% de impediments resolved within 24 hours
-- **Engagement:** 100% attendance rate, active participation
+**Efectividad del standup diario:**
+- **Tiempo acotado:** Consistentemente 15 minutos o menos
+- **Enfoque:** Trabajo de ayer, plan de hoy, impedimentos
+- **Seguimiento de impedimentos:** 95% de impedimentos resueltos en 24 horas
+- **Participación:** 100% de asistencia, participación activa
 
-**Sprint Review Innovation:**
-- **Live Demos:** Working software demonstrated cada sprint
-- **Stakeholder Feedback:** Profesora feedback incorporated
-- **Metrics Presentation:** Velocity, quality metrics shared
-- **Next Sprint Preview:** Upcoming work previewed para transparency
+**Innovación en la revisión del sprint:**
+- **Demos en vivo:** Software funcionando demostrado en cada sprint
+- **Retroalimentación de stakeholders:** Retroalimentación de la profesora incorporada
+- **Presentación de métricas:** Velocidad y métricas de calidad compartidas
+- **Vista previa del siguiente sprint:** Trabajo próximo para transparencia
 
-**Retrospective Continuous Improvement:**
-- **What Went Well:** Celebrating team successes
-- **What Could Improve:** Honest assessment de challenges  
-- **Action Items:** Specific, measurable improvements committed
-- **Follow-through:** 90% de action items implemented next sprint
+**Mejora continua en la retrospectiva:**
+- **Qué salió bien:** Celebración de éxitos del equipo
+- **Qué podría mejorar:** Evaluación honesta de los retos  
+- **Acciones:** Mejoras específicas y medibles comprometidas
+- **Seguimiento:** 90% de las acciones implementadas en el siguiente sprint
 
-#### Agile Artifacts Mastery
+#### Dominio de artefactos ágiles
 
-##### 📋 **Product Backlog Management:**
-**Owner rotating:** Valeria Itza (Sprints 1,3) y Carlos Cauich (Sprints 2,4)
+##### 📋 **Gestión del Product Backlog:**
+**Propietario rotativo:** Valeria Itza (Sprints 1,3) y Carlos Cauich (Sprints 2,4)
 
-**Backlog Refinement Process:**
+**Proceso de refinamiento del backlog:**
 ```markdown
-## User Story Template
+## Plantilla de historia de usuario
 
-**As a** [student using CHRONOS]
-**I want** [specific functionality]  
-**So that** [business value/outcome]
+**Como** [estudiante que usa CHRONOS]
+**Quiero** [funcionalidad específica]  
+**Para** [valor de negocio/resultado]
 
-**Acceptance Criteria:**
-- [ ] Given [context], when [action], then [expected outcome]
-- [ ] [Additional criteria...]
+**Criterios de aceptación:**
+- [ ] Dado [contexto], cuando [acción], entonces [resultado esperado]
+- [ ] [Criterio adicional...]
 
-**Definition of Done:**
-- [ ] Code implemented y reviewed
-- [ ] Unit tests written y passing
-- [ ] Integration tests passing
-- [ ] Documentation updated
-- [ ] Accessibility requirements met
-- [ ] Performance criteria met
+**Definición de Hecho (DoD):**
+- [ ] Código implementado y revisado
+- [ ] Pruebas unitarias escritas y pasando
+- [ ] Pruebas de integración pasando
+- [ ] Documentación actualizada
+- [ ] Requisitos de accesibilidad cumplidos
+- [ ] Criterios de rendimiento cumplidos
 ```
 
-**Story Point Estimation Accuracy:**
-- **Sprint 1:** 92% accuracy (23/25 points delivered)
-- **Sprint 2:** 96% accuracy (27/28 points on track)
-- **Velocity Trend:** Stable improvement, predictable delivery
+**Exactitud de estimación de puntos de historia:**
+- **Sprint 1:** 92% de exactitud (23/25 puntos entregados)
+- **Sprint 2:** 96% de exactitud (27/28 puntos en curso)
+- **Tendencia de velocidad:** Mejora estable, entrega predecible
 
-##### 📈 **Sprint Metrics y Tracking:**
-**Tracked by:** Ana Lavadores
+##### 📈 **Métricas de sprint y seguimiento:**
+**Seguimiento por:** Ana Lavadores
 
-**Velocity Tracking:**
+**Seguimiento de la velocidad:**
 ```
-Sprint 1: 23 story points completed
-Sprint 2: 27 story points (in progress, 96% complete)
-Sprint 3: 25 story points planned
-Average Velocity: 25 points per sprint
+Sprint 1: 23 puntos de historia completados
+Sprint 2: 27 puntos de historia (en progreso, 96% completo)
+Sprint 3: 25 puntos de historia planificados
+Velocidad promedio: 25 puntos por sprint
 ```
 
-**Quality Metrics:**
-- **Bug Rate:** 0.8 bugs per story point (industry average: 1.2)
-- **Technical Debt:** 15 hours identified, 12 hours addressed
-- **Code Review Coverage:** 100% de PRs reviewed by 2+ team members
-- **Refactoring Time:** 10% de sprint capacity allocated to technical improvements
+**Métricas de calidad:**
+- **Tasa de errores (bugs):** 0.8 bugs por punto de historia (promedio de la industria: 1.2)
+- **Deuda técnica:** 15 horas identificadas, 12 horas abordadas
+- **Cobertura de revisiones de código:** 100% de PRs revisados por 2+ miembros
+- **Tiempo de refactorización:** 10% de la capacidad del sprint para mejoras técnicas
 
-#### Collaborative Development Practices
+#### Prácticas de desarrollo colaborativo
 
-##### 🔄 **Version Control Excellence:**
-**Git Flow Implementation by:** Edrick Puc
+##### 🔄 **Excelencia en control de versiones:**
+**Implementación de Git Flow por:** Edrick Puc
 
-**Branching Strategy:**
+**Estrategia de ramas:**
 ```
-main (production-ready code)
-├── develop (integration branch)  
+main (código listo para producción)
+├── develop (rama de integración)  
     ├── feature/task-crud-operations (Carlos)
     ├── feature/gamification-points (Ana)
     ├── feature/wellness-integration (Valeria)  
@@ -478,181 +478,181 @@ main (production-ready code)
     └── docs/api-documentation-update (Edrick)
 ```
 
-**Commit Standards:**
+**Estándares de commits:**
 ```
-feat: add task completion with points calculation
-fix: resolve task filter performance issue
-docs: update API documentation for task endpoints  
-style: improve task card responsive design
-refactor: extract task validation logic to utils
-test: add integration tests for task service
+feat: agregar finalización de tareas con cálculo de puntos
+fix: resolver problema de rendimiento del filtro de tareas
+docs: actualizar documentación de API para endpoints de tareas  
+style: mejorar el diseño responsivo de la tarjeta de tarea
+refactor: extraer la lógica de validación de tareas a utils
+test: agregar pruebas de integración para el servicio de tareas
 ```
 
-**Code Review Excellence:**
-- **Review Coverage:** 100% de code changes reviewed
-- **Review Quality:** Average 3.2 comments per PR (constructive feedback)
-- **Review Speed:** 85% de PRs reviewed within 24 hours
-- **Knowledge Sharing:** Reviews used para knowledge transfer y mentoring
+**Excelencia en revisión de código:**
+- **Cobertura de revisión:** 100% de cambios revisados
+- **Calidad de revisión:** Promedio de 3.2 comentarios por PR (retroalimentación constructiva)
+- **Velocidad de revisión:** 85% de PRs revisados en 24 horas
+- **Compartición de conocimiento:** Las revisiones se usan para transferencia de conocimiento y mentoría
 
-##### 🤝 **Pair Programming y Collaboration:**
-**Practiced by all team members**
+##### 🤝 **Programación en pareja y colaboración:**
+**Practicado por todos los miembros del equipo**
 
-**Pair Programming Sessions:**
-- **Frequency:** 2-3 sessions per week
-- **Duration:** 2-4 hour focused sessions
-- **Knowledge Transfer:** Complex features developed collaboratively
-- **Quality Impact:** 40% fewer bugs en pair-programmed code
+**Sesiones de programación en pareja:**
+- **Frecuencia:** 2-3 sesiones por semana
+- **Duración:** Sesiones enfocadas de 2-4 horas
+- **Transferencia de conocimiento:** Funcionalidades complejas desarrolladas colaborativamente
+- **Impacto en calidad:** 40% menos errores en código desarrollado en pareja
 
-**Evidence de Collaboration:**
+**Evidencia de colaboración:**
 ```markdown
-## Pair Programming Log - Week 3
+## Registro de Programación en Pareja - Semana 3
 
-**Session 1:** Carlos + Guillermo - Task State Management Architecture
-- Duration: 3 hours
-- Outcome: Clean state management pattern established
-- Knowledge Transfer: Zustand best practices shared
+**Sesión 1:** Carlos + Guillermo - Arquitectura de gestión de estado de tareas
+- Duración: 3 horas
+- Resultado: Patrón de gestión de estado limpio establecido
+- Transferencia de conocimiento: Mejores prácticas de Zustand compartidas
 
-**Session 2:** Ana + Valeria - Testing Component Integration  
-- Duration: 2.5 hours
-- Outcome: Comprehensive test suite for UI components
-- Knowledge Transfer: Testing Library patterns shared
+**Sesión 2:** Ana + Valeria - Integración de pruebas de componentes  
+- Duración: 2.5 horas
+- Resultado: Suite de pruebas integral para componentes de UI
+- Transferencia de conocimiento: Patrones de Testing Library compartidos
 
-**Session 3:** Edrick + Carlos - API Integration Patterns
-- Duration: 2 hours  
-- Outcome: Consistent API service patterns established
-- Knowledge Transfer: TypeScript advanced patterns
+**Sesión 3:** Edrick + Carlos - Patrones de integración de API
+- Duración: 2 horas  
+- Resultado: Patrones consistentes de servicios de API establecidos
+- Transferencia de conocimiento: Patrones avanzados de TypeScript
 ```
 
 ---
 
 ## 🎯 Diseño y Análisis de Sistemas
 
-### 📊 Requirements Engineering
+### 📊 Ingeniería de Requisitos
 
-#### Requirements Elicitation y Analysis
-**Lead by:** Valeria Itza con support de todo el equipo
+#### Elicitación y análisis de requisitos
+**Liderado por:** Valeria Itza con apoyo de todo el equipo
 
-##### 🎭 **User Research y Analysis:**
+##### 🎭 **Investigación y análisis de usuarios:**
 
-**Stakeholder Identification:**
-- **Primary Users:** University students (18-25 años)
-- **Secondary Users:** Academic advisors, study groups
-- **Tertiary Stakeholders:** University mental health services, productivity researchers
+**Identificación de interesados (stakeholders):**
+- **Usuarios principales:** Estudiantes universitarios (18-25 años)
+- **Usuarios secundarios:** Asesores académicos, grupos de estudio
+- **Interesados terciarios:** Servicios de salud mental universitarios, investigadores de productividad
 
-**Requirements Gathering Techniques:**
-1. **User Interviews:** 12 one-on-one interviews con target users
-2. **Surveys:** 45-response quantitative survey sobre productivity habits
-3. **Observation:** Ethnographic study de student work patterns
-4. **Focus Groups:** 2 group sessions con 8 participants each
-5. **Stakeholder Workshops:** Collaborative sessions con team y advisors
+**Técnicas de levantamiento de requisitos:**
+1. **Entrevistas a usuarios:** 12 entrevistas individuales con usuarios objetivo
+2. **Encuestas:** Encuesta cuantitativa con 45 respuestas sobre hábitos de productividad
+3. **Observación:** Estudio etnográfico de patrones de trabajo estudiantil
+4. **Grupos focales:** 2 sesiones grupales con 8 participantes cada una
+5. **Talleres con interesados:** Sesiones colaborativas con el equipo y asesores
 
-**User Persona Development:**
+**Desarrollo de persona usuaria:**
 ```markdown
-## Primary Persona: "Overwhelmed Olivia"
+## Persona principal: "Olivia Abrumada"
 
-**Demographics:**
-- Age: 20, Sophomore Engineering Student
-- Tech Comfort: High (smartphone native)
-- Productivity Tools: Uses basic to-do apps, often abandons them
+**Datos demográficos:**
+- Edad: 20, estudiante de segundo año de ingeniería
+- Comodidad tecnológica: Alta (nativa de smartphone)
+- Herramientas de productividad: Usa apps básicas de tareas, suele abandonarlas
 
-**Goals:**
-- Complete assignments without last-minute stress
-- Maintain work-life balance during busy periods  
-- Feel motivated y accomplished about daily progress
+**Objetivos:**
+- Completar asignaciones sin estrés de último minuto
+- Mantener equilibrio vida-trabajo en periodos ocupados  
+- Sentirse motivada y satisfecha con el progreso diario
 
-**Pain Points:**
-- Traditional task apps feel boring y mechanical
-- Difficulty estimating time for complex projects
-- Tends to overwork y neglect self-care
-- Loses motivation when facing large task lists
+**Puntos de dolor:**
+- Las apps tradicionales de tareas le resultan aburridas y mecánicas
+- Dificultad para estimar tiempo en proyectos complejos
+- Tiende a sobretrabajar y descuidar el autocuidado
+- Pierde motivación al enfrentar listas de tareas grandes
 
-**Behavioral Patterns:**
-- Checks phone 50+ times per day
-- Responds well to positive reinforcement
-- Values peer connection y shared experiences
-- Interested in self-improvement y personal growth
+**Patrones de comportamiento:**
+- Revisa el teléfono 50+ veces al día
+- Responde bien al refuerzo positivo
+- Valora la conexión con pares y experiencias compartidas
+- Interés en la auto-mejora y el crecimiento personal
 
-**How CHRONOS Helps:**
-- Gamification makes task completion rewarding
-- Wellness integration prevents burnout
-- Social features provide peer support
-- Achievement system maintains long-term motivation
+**Cómo ayuda CHRONOS:**
+- La gamificación hace que completar tareas sea gratificante
+- La integración de bienestar previene el burnout
+- Las funciones sociales brindan apoyo entre pares
+- El sistema de logros mantiene la motivación a largo plazo
 ```
 
-##### 📋 **Functional Requirements Analysis:**
+##### 📋 **Análisis de requisitos funcionales:**
 
-**Requirements Traceability Matrix:**
+**Matriz de trazabilidad de requisitos:**
 ```markdown
-## High-Priority Functional Requirements (Must-Have)
+## Requisitos funcionales de alta prioridad (Imprescindibles)
 
-| ID | Requirement | User Story | Priority | Status | Test Cases |
-|----|-------------|------------|----------|---------|------------|
-| FR-01 | Task Creation | As a student, I want to create tasks with titles, descriptions, y due dates | Must | ✅ Complete | 8 test cases |
-| FR-02 | Task Management | As a user, I want to edit, delete, y mark tasks complete | Must | ✅ Complete | 12 test cases |
-| FR-03 | Points System | As a user, I want to earn points for completing tasks | Must | 🔄 In Progress | 6 test cases |
-| FR-04 | User Authentication | As a user, I want secure login/registration | Must | ✅ Complete | 10 test cases |
-| FR-05 | Progress Tracking | As a user, I want to see my daily/weekly progress | Must | ⏳ Pending | 4 test cases |
+| ID | Requisito | Historia de usuario | Prioridad | Estado | Casos de prueba |
+|----|-----------|---------------------|-----------|--------|-----------------|
+| FR-01 | Creación de tareas | Como estudiante, quiero crear tareas con títulos, descripciones y fechas de vencimiento | Imprescindible | ✅ Completado | 8 casos de prueba |
+| FR-02 | Gestión de tareas | Como usuario, quiero editar, eliminar y marcar tareas como completadas | Imprescindible | ✅ Completado | 12 casos de prueba |
+| FR-03 | Sistema de puntos | Como usuario, quiero ganar puntos por completar tareas | Imprescindible | 🔄 En progreso | 6 casos de prueba |
+| FR-04 | Autenticación de usuario | Como usuario, quiero inicio de sesión/registro seguro | Imprescindible | ✅ Completado | 10 casos de prueba |
+| FR-05 | Seguimiento de progreso | Como usuario, quiero ver mi progreso diario/semanal | Imprescindible | ⏳ Pendiente | 4 casos de prueba |
 ```
 
-**Non-Functional Requirements Specification:**
+**Especificación de requisitos no funcionales:**
 ```markdown
-## Performance Requirements
-- **Response Time:** Page loads < 2 seconds
-- **Concurrent Users:** Support 100+ simultaneous users  
-- **Availability:** 99% uptime during academic periods
-- **Scalability:** Handle 1000+ users without performance degradation
+## Requisitos de rendimiento
+- **Tiempo de respuesta:** Carga de página < 2 segundos
+- **Usuarios concurrentes:** Soportar 100+ usuarios simultáneos  
+- **Disponibilidad:** 99% de uptime durante periodos académicos
+- **Escalabilidad:** Manejar 1000+ usuarios sin degradación de rendimiento
 
-## Usability Requirements  
-- **Learning Curve:** New users productive within 10 minutes
-- **Accessibility:** WCAG 2.1 AA compliance
-- **Mobile Responsiveness:** Full functionality en mobile devices
-- **Internationalization:** Support para English y Spanish
+## Requisitos de usabilidad  
+- **Curva de aprendizaje:** Usuarios nuevos productivos en < 10 minutos
+- **Accesibilidad:** Cumplimiento WCAG 2.1 AA
+- **Responsividad móvil:** Funcionalidad completa en dispositivos móviles
+- **Internacionalización:** Soporte para inglés y español
 
-## Security Requirements
-- **Authentication:** Secure JWT-based authentication
-- **Data Protection:** All sensitive data encrypted
-- **Privacy:** GDPR-compliant data handling
-- **Input Validation:** All user inputs sanitized y validated
+## Requisitos de seguridad
+- **Autenticación:** Autenticación segura basada en JWT
+- **Protección de datos:** Todos los datos sensibles cifrados
+- **Privacidad:** Manejo de datos conforme a GDPR
+- **Validación de entradas:** Todas las entradas de usuario sanitizadas y validadas
 ```
 
-#### System Design y Architecture
+#### Diseño y arquitectura del sistema
 
-##### 🏗️ **System Architecture Design:**
-**Architect:** Carlos Cauich y Guillermo Peña
+##### 🏗️ **Diseño de la arquitectura del sistema:**
+**Arquitectos:** Carlos Cauich y Guillermo Peña
 
-**High-Level Architecture:**
+**Arquitectura de alto nivel:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    CHRONOS System Architecture              │
+│                    Arquitectura del Sistema CHRONOS         │
 ├─────────────────────────────────────────────────────────────┤
 │  Frontend (React + TypeScript + Tailwind)                  │
-│  ├── User Interface Components                             │
-│  ├── State Management (Zustand)                            │  
-│  ├── API Client Services                                   │
-│  └── Routing y Navigation                                  │
+│  ├── Componentes de interfaz de usuario                    │
+│  ├── Gestión de estado (Zustand)                           │  
+│  ├── Servicios cliente de API                              │
+│  └── Enrutamiento y navegación                             │
 ├─────────────────────────────────────────────────────────────┤
-│  API Gateway y Authentication                              │
-│  ├── JWT Token Management                                  │
-│  ├── Request/Response Middleware                           │
-│  └── Rate Limiting y Security                              │
+│  Pasarela de API y Autenticación                           │
+│  ├── Gestión de tokens JWT                                 │
+│  ├── Middleware de solicitud/respuesta                     │
+│  └── Limitación de tasa y seguridad                        │
 ├─────────────────────────────────────────────────────────────┤
-│  Backend Services (Node.js + Express)                      │
-│  ├── Task Management Service                               │
-│  ├── User Management Service                               │
-│  ├── Gamification Service                                  │
-│  ├── Wellness Tracking Service                             │
-│  └── Notification Service                                  │
+│  Servicios Backend (Node.js + Express)                     │
+│  ├── Servicio de gestión de tareas                         │
+│  ├── Servicio de gestión de usuarios                       │
+│  ├── Servicio de gamificación                              │
+│  ├── Servicio de seguimiento de bienestar                  │
+│  └── Servicio de notificaciones                            │
 ├─────────────────────────────────────────────────────────────┤
-│  Data Layer                                                │
-│  ├── PostgreSQL (Primary Data)                             │
-│  ├── Redis (Caching y Sessions)                            │
-│  └── File Storage (User Assets)                            │
+│  Capa de datos                                             │
+│  ├── PostgreSQL (Datos primarios)                          │
+│  ├── Redis (Caché y sesiones)                              │
+│  └── Almacenamiento de archivos (Recursos de usuario)      │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Database Design:**
+**Diseño de base de datos:**
 ```sql
--- Core entities with relationships
+-- Entidades principales con relaciones
 CREATE TABLE users (
   id UUID PRIMARY KEY,
   email VARCHAR(255) UNIQUE NOT NULL,
@@ -685,12 +685,12 @@ CREATE TABLE user_achievements (
 );
 ```
 
-##### 🔄 **API Design Patterns:**
-**Designed by:** Edrick Puc
+##### 🔄 **Patrones de diseño de API:**
+**Diseñado por:** Edrick Puc
 
-**RESTful API Standards:**
+**Estándares de API RESTful:**
 ```typescript
-// Consistent API response format
+// Formato de respuesta de API consistente
 interface APIResponse<T> {
   success: boolean;
   data?: T;
@@ -706,7 +706,7 @@ interface APIResponse<T> {
   };
 }
 
-// Example API endpoint implementation
+// Ejemplo de implementación de endpoint de API
 router.get('/api/tasks', authenticate, async (req, res) => {
   try {
     const { page = 1, limit = 10, status, priority } = req.query;
@@ -731,7 +731,7 @@ router.get('/api/tasks', authenticate, async (req, res) => {
       success: false,
       error: {
         code: 'FETCH_TASKS_ERROR',
-        message: 'Unable to retrieve tasks'
+        message: 'No se pueden recuperar las tareas'
       }
     });
   }
@@ -742,27 +742,27 @@ router.get('/api/tasks', authenticate, async (req, res) => {
 
 ## 🔐 Seguridad y Calidad de Software
 
-### 🛡️ Security Implementation
+### 🛡️ Implementación de seguridad
 
-#### Authentication y Authorization
-**Implemented by:** Guillermo Peña y Edrick Puc
+#### Autenticación y autorización
+**Implementado por:** Guillermo Peña y Edrick Puc
 
-##### 🔑 **JWT Authentication System:**
+##### 🔑 **Sistema de autenticación JWT:**
 
-**Security Architecture:**
+**Arquitectura de seguridad:**
 ```typescript
-// JWT implementation con refresh token strategy
+// Implementación de JWT con estrategia de token de actualización (refresh)
 interface AuthTokens {
-  accessToken: string;    // Short-lived (15 minutes)
-  refreshToken: string;   // Long-lived (7 days)  
+  accessToken: string;    // De corta duración (15 minutos)
+  refreshToken: string;   // De larga duración (7 días)  
 }
 
 class AuthService {
   async login(email: string, password: string): Promise<AuthTokens> {
-    // 1. Validate credentials
+    // 1. Validar credenciales
     const user = await this.validateCredentials(email, password);
     
-    // 2. Generate tokens
+    // 2. Generar tokens
     const accessToken = jwt.sign(
       { userId: user.id, email: user.email },
       process.env.JWT_SECRET,
@@ -775,7 +775,7 @@ class AuthService {
       { expiresIn: '7d' }
     );
     
-    // 3. Store refresh token securely
+    // 3. Almacenar el refresh token de forma segura
     await this.storeRefreshToken(user.id, refreshToken);
     
     return { accessToken, refreshToken };
@@ -783,20 +783,20 @@ class AuthService {
 }
 ```
 
-**Security Measures Implemented:**
-- ✅ **Password Hashing:** bcrypt con salt rounds (12)
-- ✅ **JWT Security:** Short-lived access tokens con refresh token rotation
-- ✅ **HTTPS Only:** All authentication endpoints require HTTPS
-- ✅ **Rate Limiting:** Login attempts limited to prevent brute force
-- ✅ **Input Validation:** All authentication inputs sanitized y validated
+**Medidas de seguridad implementadas:**
+- ✅ **Hashing de contraseñas:** bcrypt con 12 rondas de sal
+- ✅ **Seguridad JWT:** Tokens de acceso de corta duración con rotación de refresh tokens
+- ✅ **Solo HTTPS:** Todos los endpoints de autenticación requieren HTTPS
+- ✅ **Limitación de intentos:** Intentos de inicio de sesión limitados para prevenir fuerza bruta
+- ✅ **Validación de entradas:** Todas las entradas de autenticación sanitizadas y validadas
 
-#### Data Protection y Privacy
+#### Protección de datos y privacidad
 
-##### 🔒 **Data Security Measures:**
+##### 🔒 **Medidas de seguridad de datos:**
 
-**Encryption Implementation:**
+**Implementación de cifrado:**
 ```typescript
-// Sensitive data encryption
+// Cifrado de datos sensibles
 import crypto from 'crypto';
 
 class DataEncryption {
@@ -817,34 +817,34 @@ class DataEncryption {
   }
 }
 
-// Usage para sensitive user data
+// Uso para datos sensibles del usuario
 const encryptedMoodData = dataEncryption.encrypt(JSON.stringify(userMoodData));
 ```
 
-**Privacy Compliance:**
-- ✅ **Data Minimization:** Only collect necessary user information
-- ✅ **User Consent:** Clear opt-in para data collection features
-- ✅ **Data Retention:** Automated deletion de old data per retention policy
-- ✅ **User Rights:** Data export y deletion functionality implemented
+**Cumplimiento de privacidad:**
+- ✅ **Minimización de datos:** Solo se recopila información necesaria
+- ✅ **Consentimiento del usuario:** Opt-in claro para funciones de recopilación de datos
+- ✅ **Retención de datos:** Eliminación automática de datos antiguos según política
+- ✅ **Derechos del usuario:** Funcionalidad de exportación y eliminación de datos implementada
 
-#### Input Validation y Sanitization
+#### Validación y sanitización de entradas
 
-##### 🧹 **Comprehensive Input Validation:**
-**Implemented by:** Ana Lavadores
+##### 🧹 **Validación integral de entradas:**
+**Implementado por:** Ana Lavadores
 
-**Validation Framework:**
+**Framework de validación:**
 ```typescript
 import Joi from 'joi';
 
-// Task creation validation schema
+// Esquema de validación para creación de tareas
 const createTaskSchema = Joi.object({
   title: Joi.string()
     .min(1)
     .max(255)
     .required()
     .messages({
-      'string.empty': 'Task title cannot be empty',
-      'string.max': 'Task title cannot exceed 255 characters'
+      'string.empty': 'El título de la tarea no puede estar vacío',
+      'string.max': 'El título de la tarea no puede exceder 255 caracteres'
     }),
     
   description: Joi.string()
@@ -859,11 +859,11 @@ const createTaskSchema = Joi.object({
     .min('now')
     .optional()
     .messages({
-      'date.min': 'Due date cannot be en the past'
+      'date.min': 'La fecha de vencimiento no puede estar en el pasado'
     })
 });
 
-// Validation middleware
+// Middleware de validación
 const validateCreateTask = (req, res, next) => {
   const { error, value } = createTaskSchema.validate(req.body);
   
@@ -882,14 +882,14 @@ const validateCreateTask = (req, res, next) => {
 };
 ```
 
-### 🏗️ Code Quality Assurance
+### 🏗️ Aseguramiento de la calidad del código
 
-#### Static Code Analysis
-**Maintained by:** Todo el equipo, coordinado por Ana Lavadores
+#### Análisis estático de código
+**Mantenido por:** Todo el equipo, coordinado por Ana Lavadores
 
-##### 📊 **ESLint y Prettier Configuration:**
+##### 📊 **Configuración de ESLint y Prettier:**
 
-**Code Quality Rules:**
+**Reglas de calidad de código:**
 ```javascript
 // .eslintrc.js
 module.exports = {
@@ -899,17 +899,17 @@ module.exports = {
     'prettier'
   ],
   rules: {
-    // Enforce best practices
+    // Aplicar buenas prácticas
     '@typescript-eslint/no-unused-vars': 'error',
     '@typescript-eslint/explicit-function-return-type': 'warn',
     'react-hooks/exhaustive-deps': 'error',
     
-    // Code complexity limits
+    // Límites de complejidad
     'complexity': ['error', 10],
     'max-lines-per-function': ['warn', 50],
     'max-depth': ['error', 4],
     
-    // Security rules
+    // Reglas de seguridad
     'no-eval': 'error',
     'no-implied-eval': 'error',
     'no-new-func': 'error'
@@ -917,24 +917,24 @@ module.exports = {
 };
 ```
 
-**Code Quality Metrics:**
-- **ESLint Issues:** 0 errors, 3 warnings (continuously monitored)
-- **Cyclomatic Complexity:** Average 3.2 (target: <5)
-- **Function Length:** Average 18 lines (target: <25)
-- **Code Duplication:** <5% duplicated code blocks
+**Métricas de calidad de código:**
+- **Incidencias ESLint:** 0 errores, 3 advertencias (monitoreo continuo)
+- **Complejidad ciclomática:** Promedio 3.2 (objetivo: <5)
+- **Longitud de funciones:** Promedio 18 líneas (objetivo: <25)
+- **Duplicación de código:** <5% de bloques duplicados
 
-#### Performance Optimization
+#### Optimización de rendimiento
 
-##### ⚡ **Frontend Performance:**
-**Optimized by:** Carlos Cauich y Valeria Itza
+##### ⚡ **Rendimiento en el frontend:**
+**Optimizado por:** Carlos Cauich y Valeria Itza
 
-**Performance Strategies Implemented:**
+**Estrategias de rendimiento implementadas:**
 ```typescript
-// Code splitting para better loading performance
+// División de código para mejor rendimiento de carga
 const TaskPage = lazy(() => import('./pages/TaskPage'));
 const ProfilePage = lazy(() => import('./pages/ProfilePage'));
 
-// Memoization para expensive calculations
+// Memoización para cálculos costosos
 const TaskStats = memo(({ tasks }: { tasks: Task[] }) => {
   const stats = useMemo(() => {
     return tasks.reduce((acc, task) => {
@@ -943,83 +943,83 @@ const TaskStats = memo(({ tasks }: { tasks: Task[] }) => {
     }, {} as Record<string, number>);
   }, [tasks]);
   
-  return <div>{/* Render stats */}</div>;
+  return <div>{/* Renderizar estadísticas */}</div>;
 });
 
-// Optimized API calls con caching
+// Llamadas de API optimizadas con caché
 const useTasksWithCache = () => {
   return useQuery({
     queryKey: ['tasks'],
     queryFn: fetchTasks,
-    staleTime: 5 * 60 * 1000, // 5 minutes
-    cacheTime: 30 * 60 * 1000, // 30 minutes
+    staleTime: 5 * 60 * 1000, // 5 minutos
+    cacheTime: 30 * 60 * 1000, // 30 minutos
   });
 };
 ```
 
-**Performance Metrics:**
-- **First Contentful Paint:** 1.2s (target: <2s)
-- **Largest Contentful Paint:** 2.1s (target: <2.5s)
-- **Time to Interactive:** 2.8s (target: <3s)
-- **Cumulative Layout Shift:** 0.05 (target: <0.1)
+**Métricas de rendimiento:**
+- **First Contentful Paint:** 1.2s (objetivo: <2s)
+- **Largest Contentful Paint:** 2.1s (objetivo: <2.5s)
+- **Time to Interactive:** 2.8s (objetivo: <3s)
+- **Cumulative Layout Shift:** 0.05 (objetivo: <0.1)
 
 ---
 
 ## 📊 Evaluación de Competencias Específicas
 
-### 🎯 Competency Assessment Matrix
+### 🎯 Matriz de evaluación de competencias
 
-| Competencia | Nivel Inicial | Nivel Actual | Evidencia | Próximos Pasos |
-|-------------|---------------|---------------|-----------|----------------|
-| **JavaScript/TypeScript** | Básico | Avanzado | 2,800+ líneas de código, type-safe architecture | Advanced patterns, performance optimization |
-| **React Development** | Intermedio | Avanzado | Component library, custom hooks, optimization | State management patterns, advanced testing |
-| **Software Architecture** | Básico | Intermedio | Modular architecture, design patterns | Microservices, scalability patterns |
-| **Testing** | Básico | Intermedio | 78% test coverage, comprehensive test suite | E2E automation, performance testing |
-| **Agile Methodologies** | Teórico | Práctico | 4 sprints executed, velocity tracking | Advanced Scrum, Kanban integration |
-| **API Design** | Básico | Intermedio | RESTful API, documentation, validation | GraphQL, API versioning, performance |
-| **Security** | Básico | Intermedio | Authentication, encryption, validation | Advanced security patterns, auditing |
-| **Database Design** | Básico | Intermedio | Normalized schema, relationships, queries | Performance tuning, advanced queries |
+| Competencia | Nivel inicial | Nivel actual | Evidencia | Próximos pasos |
+|-------------|---------------|--------------|-----------|----------------|
+| **JavaScript/TypeScript** | Básico | Avanzado | 2,800+ líneas de código, arquitectura con tipos seguros | Patrones avanzados, optimización de rendimiento |
+| **Desarrollo con React** | Intermedio | Avanzado | Librería de componentes, hooks personalizados, optimización | Patrones de gestión de estado, pruebas avanzadas |
+| **Arquitectura de software** | Básico | Intermedio | Arquitectura modular, patrones de diseño | Microservicios, patrones de escalabilidad |
+| **Pruebas** | Básico | Intermedio | 78% de cobertura, suite de pruebas integral | Automatización E2E, pruebas de rendimiento |
+| **Metodologías ágiles** | Teórico | Práctico | 4 sprints ejecutados, seguimiento de velocidad | Scrum avanzado, integración con Kanban |
+| **Diseño de API** | Básico | Intermedio | API RESTful, documentación, validación | GraphQL, versionado de API, rendimiento |
+| **Seguridad** | Básico | Intermedio | Autenticación, cifrado, validación | Patrones de seguridad avanzados, auditoría |
+| **Diseño de base de datos** | Básico | Intermedio | Esquema normalizado, relaciones, consultas | Tuning de rendimiento, consultas avanzadas |
 
-### 📈 Skill Development Roadmap
+### 📈 Hoja de ruta de desarrollo de habilidades
 
-#### Individual Growth Plans:
+#### Planes de crecimiento individuales:
 
-**Carlos Cauich - Frontend Specialist:**
-- **Current Strength:** React development, component architecture
-- **Growth Areas:** Performance optimization, advanced state management
-- **Next 6 months:** Master React performance patterns, explore micro-frontends
-- **Career Path:** Senior Frontend Engineer → Frontend Architect
+**Carlos Cauich - Especialista Frontend:**
+- **Fortaleza actual:** Desarrollo con React, arquitectura de componentes
+- **Áreas de crecimiento:** Optimización de rendimiento, gestión de estado avanzada
+- **Próximos 6 meses:** Dominar patrones de rendimiento en React, explorar micro-frontends
+- **Ruta profesional:** Senior Frontend Engineer → Frontend Architect
 
-**Ana Lavadores - Quality Engineer:**
-- **Current Strength:** Testing strategies, process improvement  
-- **Growth Areas:** Test automation, performance testing
-- **Next 6 months:** Master E2E automation, learn load testing
-- **Career Path:** QA Engineer → Test Automation Lead → QA Manager
+**Ana Lavadores - Ingeniera de Calidad:**
+- **Fortaleza actual:** Estrategias de pruebas, mejora de procesos  
+- **Áreas de crecimiento:** Automatización de pruebas, pruebas de rendimiento
+- **Próximos 6 meses:** Dominar automatización E2E, aprender pruebas de carga
+- **Ruta profesional:** QA Engineer → Test Automation Lead → QA Manager
 
-**Guillermo Peña - Full-Stack Developer:**
-- **Current Strength:** System design, project management
-- **Growth Areas:** Backend scalability, DevOps practices
-- **Next 6 months:** Learn containerization, CI/CD mastery
-- **Career Path:** Full-Stack Developer → Solutions Architect
+**Guillermo Peña - Desarrollador Full-Stack:**
+- **Fortaleza actual:** Diseño de sistemas, gestión de proyecto
+- **Áreas de crecimiento:** Escalabilidad backend, prácticas DevOps
+- **Próximos 6 meses:** Aprender contenedorización, maestría en CI/CD
+- **Ruta profesional:** Full-Stack Developer → Solutions Architect
 
 **Valeria Itza - Product Engineer:**
-- **Current Strength:** UX design, user research, frontend development
-- **Growth Areas:** Product management, data analysis
-- **Next 6 months:** Learn analytics, A/B testing, product metrics
-- **Career Path:** Product Designer → Product Manager → Head of Product
+- **Fortaleza actual:** Diseño UX, investigación de usuarios, desarrollo frontend
+- **Áreas de crecimiento:** Gestión de producto, análisis de datos
+- **Próximos 6 meses:** Aprender analítica, A/B testing, métricas de producto
+- **Ruta profesional:** Product Designer → Product Manager → Head of Product
 
-**Edrick Puc - Infrastructure Specialist:**
-- **Current Strength:** Documentation, system configuration, research
-- **Growth Areas:** Cloud platforms, automation, monitoring
-- **Next 6 months:** AWS certification, infrastructure as code
-- **Career Path:** DevOps Engineer → Site Reliability Engineer → Infrastructure Architect
+**Edrick Puc - Especialista en Infraestructura:**
+- **Fortaleza actual:** Documentación, configuración de sistemas, investigación
+- **Áreas de crecimiento:** Plataformas en la nube, automatización, monitoreo
+- **Próximos 6 meses:** Certificación AWS, infraestructura como código
+- **Ruta profesional:** DevOps Engineer → Site Reliability Engineer → Infrastructure Architect
 
 ---
 
 **Competencias específicas evaluadas por:** Equipo CHRONOS completo  
 **Supervisión técnica:** Profesora Leydi Ofelia Caballero Chi  
 **Periodo de desarrollo:** Septiembre - Noviembre 2025  
-**Evaluación continua:** Weekly technical reviews y skill assessments
+**Evaluación continua:** Revisiones técnicas semanales y evaluaciones de habilidades
 
 ---
 
