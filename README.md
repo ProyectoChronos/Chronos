@@ -50,7 +50,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Métrica de Contribución Individual](proceso/metricas.md)
 - [Organización y Documentación del Repositorio](proceso/organizacion.md)
 
-### 4. [Presentación del Avance](presentacion.md)
+### 4. [Presentación del Avance](https://www.canva.com/design/DAG0OIXqi7g/tsC8Z_jxjWDKKJKF_1Ri7w/edit)
 
 ### 5. [Competencias](competencias/)
 - [Competencias Genéricas](competencias/genericas.md)
