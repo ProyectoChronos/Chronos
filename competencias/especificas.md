@@ -15,7 +15,7 @@ A través del desarrollo del proyecto CHRONOS, hemos desarrollado y aplicado com
 **Competencias Desarrolladas:**
 
 ##### 🎯 **JavaScript Moderno (ES6+):**
-**Carlos García:**
+**Carlos Cauich:**
 - **Arrow functions y destructuring:** Uso extensivo en components y services
 - **Async/await patterns:** Manejo de API calls y asynchronous operations
 - **Module systems:** ES6 imports/exports para clean architecture
@@ -40,7 +40,7 @@ export const taskService = {
 ```
 
 ##### 🔷 **TypeScript - Type Safety:**
-**Guillermo Cárdenas:**
+**Guillermo Peña:**
 - **Interface definitions:** Strong typing para all data models
 - **Generic types:** Reusable components con type safety
 - **Union types:** Flexible yet safe type definitions  
@@ -72,7 +72,7 @@ function useAsyncState<T>(initialState: T) {
 #### Frontend Development - React Ecosystem
 
 ##### ⚛️ **React Hooks y Patterns:**
-**Ana Lavadores y Valeria Hernández:**
+**Ana Lavadores y Valeria Itza:**
 
 **Hooks Mastery:**
 - **useState:** Complex state management con objects y arrays
@@ -112,7 +112,7 @@ function useTaskManager() {
 ```
 
 ##### 🎨 **Styling y UI Development:**
-**Valeria Hernández:**
+**Valeria Itza:**
 
 **Tailwind CSS Expertise:**
 - **Utility-first approach:** Rapid prototyping y consistent design
@@ -131,7 +131,7 @@ function useTaskManager() {
 #### Frontend Architecture Patterns
 
 ##### 📦 **Component-Based Architecture:**
-**Diseñado por:** Carlos García y Valeria Hernández
+**Diseñado por:** Carlos Cauich y Valeria Itza
 
 **Architectural Decisions:**
 
@@ -152,7 +152,7 @@ src/components/
 - ✅ **Scalable development** with clear component hierarchy
 
 ##### 🔄 **State Management Architecture:**
-**Implementado por:** Guillermo Cárdenas
+**Implementado por:** Guillermo Peña
 
 **Zustand Store Design:**
 ```typescript
@@ -193,7 +193,7 @@ const taskSlice = (set, get) => ({
 #### Backend Architecture Understanding
 
 ##### 🌐 **API Design Principles:**
-**Aplicado por:** Edrick Torres
+**Aplicado por:** Edrick Puc
 
 **RESTful API Design:**
 ```
@@ -278,7 +278,7 @@ describe('useTaskManager Hook', () => {
 #### Integration Testing
 
 ##### 🔗 **API Integration Tests:**
-**Implementado por:** Carlos García y Edrick Torres
+**Implementado por:** Carlos Cauich y Edrick Puc
 
 **Service Integration Testing:**
 ```typescript
@@ -368,7 +368,7 @@ test_quality_gates:
 ### 🏃‍♂️ Metodologías Ágiles - Scrum Implementation
 
 #### Scrum Framework Mastery
-**Implementado por todo el equipo, coordinado por:** Guillermo Cárdenas
+**Implementado por todo el equipo, coordinado por:** Guillermo Peña
 
 ##### 📅 **Ceremonias Scrum:**
 
@@ -417,7 +417,7 @@ test_quality_gates:
 #### Agile Artifacts Mastery
 
 ##### 📋 **Product Backlog Management:**
-**Owner rotating:** Valeria Hernández (Sprints 1,3) y Carlos García (Sprints 2,4)
+**Owner rotating:** Valeria Itza (Sprints 1,3) y Carlos Cauich (Sprints 2,4)
 
 **Backlog Refinement Process:**
 ```markdown
@@ -465,7 +465,7 @@ Average Velocity: 25 points per sprint
 #### Collaborative Development Practices
 
 ##### 🔄 **Version Control Excellence:**
-**Git Flow Implementation by:** Edrick Torres
+**Git Flow Implementation by:** Edrick Puc
 
 **Branching Strategy:**
 ```
@@ -530,7 +530,7 @@ test: add integration tests for task service
 ### 📊 Requirements Engineering
 
 #### Requirements Elicitation y Analysis
-**Lead by:** Valeria Hernández con support de todo el equipo
+**Lead by:** Valeria Itza con support de todo el equipo
 
 ##### 🎭 **User Research y Analysis:**
 
@@ -618,7 +618,7 @@ test: add integration tests for task service
 #### System Design y Architecture
 
 ##### 🏗️ **System Architecture Design:**
-**Architect:** Carlos García y Guillermo Cárdenas
+**Architect:** Carlos Cauich y Guillermo Peña
 
 **High-Level Architecture:**
 ```
@@ -686,7 +686,7 @@ CREATE TABLE user_achievements (
 ```
 
 ##### 🔄 **API Design Patterns:**
-**Designed by:** Edrick Torres
+**Designed by:** Edrick Puc
 
 **RESTful API Standards:**
 ```typescript
@@ -745,7 +745,7 @@ router.get('/api/tasks', authenticate, async (req, res) => {
 ### 🛡️ Security Implementation
 
 #### Authentication y Authorization
-**Implemented by:** Guillermo Cárdenas y Edrick Torres
+**Implemented by:** Guillermo Peña y Edrick Puc
 
 ##### 🔑 **JWT Authentication System:**
 
@@ -926,7 +926,7 @@ module.exports = {
 #### Performance Optimization
 
 ##### ⚡ **Frontend Performance:**
-**Optimized by:** Carlos García y Valeria Hernández
+**Optimized by:** Carlos Cauich y Valeria Itza
 
 **Performance Strategies Implemented:**
 ```typescript
@@ -984,7 +984,7 @@ const useTasksWithCache = () => {
 
 #### Individual Growth Plans:
 
-**Carlos García - Frontend Specialist:**
+**Carlos Cauich - Frontend Specialist:**
 - **Current Strength:** React development, component architecture
 - **Growth Areas:** Performance optimization, advanced state management
 - **Next 6 months:** Master React performance patterns, explore micro-frontends
@@ -996,19 +996,19 @@ const useTasksWithCache = () => {
 - **Next 6 months:** Master E2E automation, learn load testing
 - **Career Path:** QA Engineer → Test Automation Lead → QA Manager
 
-**Guillermo Cárdenas - Full-Stack Developer:**
+**Guillermo Peña - Full-Stack Developer:**
 - **Current Strength:** System design, project management
 - **Growth Areas:** Backend scalability, DevOps practices
 - **Next 6 months:** Learn containerization, CI/CD mastery
 - **Career Path:** Full-Stack Developer → Solutions Architect
 
-**Valeria Hernández - Product Engineer:**
+**Valeria Itza - Product Engineer:**
 - **Current Strength:** UX design, user research, frontend development
 - **Growth Areas:** Product management, data analysis
 - **Next 6 months:** Learn analytics, A/B testing, product metrics
 - **Career Path:** Product Designer → Product Manager → Head of Product
 
-**Edrick Torres - Infrastructure Specialist:**
+**Edrick Puc - Infrastructure Specialist:**
 - **Current Strength:** Documentation, system configuration, research
 - **Growth Areas:** Cloud platforms, automation, monitoring
 - **Next 6 months:** AWS certification, infrastructure as code
