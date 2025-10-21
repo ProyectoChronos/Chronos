@@ -27,7 +27,8 @@
 | 🟡 | SHOULD (IMPORTANTE) | Funcionalidades importantes que agregan valor significativo |
 | 🟢 | COULD (OPCIONAL / FUTURO) | Funcionalidades deseables para versiones futuras |
 
-# Sprint Tracking
+
+# Sprint Tracking - Chronos
 
 | Backlog Item | Task | Task Owner | Initial Estimate | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 |--------------|------|------------|------------------|-------|-------|-------|-------|-------|
