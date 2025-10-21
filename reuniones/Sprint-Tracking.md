@@ -1,6 +1,4 @@
-# Product Backlog - Chronos
-
-## Sprint Tracking
+# Sprint Tracking
 
 | Backlog Item | Task | Task Owner | Initial Estimate | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 |--------------|------|------------|------------------|-------|-------|-------|-------|-------|
