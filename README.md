@@ -64,7 +64,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Día 4](reuniones/dia_4.mp4)
 - [Día 5](reuniones/dia_5.mp4)
 - [Product Backlog](reuniones/P-Backlog.md)
-- [Sprint Tracking](reuniones/P-Backlog.2.md)
+- [Sprint Tracking](reuniones/Sprint-Tracking.md)
 
 ---
 
