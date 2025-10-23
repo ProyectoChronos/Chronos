@@ -56,7 +56,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Competencias Genéricas](competencias/genericas.md)
 - [Competencias Específicas](competencias/especificas.md)
 
-### 5. [Sprint 1](sprint-1/)
+### 5. [Sprint 1](Scrum/sprint-1/)
 - [Reunión #1](Scrum/sprint-1/reunión-1.mp4)
 - [Día 1](Scrum/sprint-1/dia_1.mp4)
 - [Día 2](Scrum/sprint-1/dia_2.mp4)
