@@ -12,6 +12,13 @@
 | **Gamificación** | Como usuario que se motiva con logros, quiero que la app incluya recompensas y niveles al completar tareas, para sentirme motivado y ser constante. | 🟡 SHOULD | Promueve hábitos positivos y uso continuo. |
 | **Bienestar y hábitos** | Como usuario interesado en mejorar mis hábitos, quiero que la app me sugiera descansos y rutinas saludables, para evitar el agotamiento. | 🟢 COULD | Fomenta balance y compromiso personal. |
 
+## Notas Técnicas
+
+```
+// funcionalidad: historias de usuario
+// descripción: historias de usuario
+```
+
 ### Leyenda de Prioridades
 
 | Color | Significado | Descripción |

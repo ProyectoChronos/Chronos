@@ -12,6 +12,13 @@
 | **Gamificación** | Como usuario que se motiva con logros, quiero que la app incluya recompensas y niveles al completar tareas, para sentirme motivado y ser constante. | 🟡 SHOULD | Promueve hábitos positivos y uso continuo. |
 | **Bienestar y hábitos** | Como usuario interesado en mejorar mis hábitos, quiero que la app me sugiera descansos y rutinas saludables, para evitar el agotamiento. | 🟢 COULD | Fomenta balance y compromiso personal. |
 
+## Notas Técnicas
+
+```
+// funcionalidad: historias de usuario
+// descripción: historias de usuario
+```
+
 ### Leyenda de Prioridades
 
 | Color | Significado | Descripción |
@@ -36,7 +43,7 @@ Aquí se detalla quién es responsable de cada tarea de diseño y el seguimiento
 | **Calendario integrado** | Diseño de vistas: Semanal, Diaria, Mensual | Carlos | 10 | 6 | 4 | 2 | 0 | 0 |
 | | Diseño de indicadores de color por categoría | Azul | 7 | 5 | 3 | 2 | 0 | 0 |
 | **Usabilidad y accesibilidad** | Definición de paleta de colores y tipografía | Azul | 5 | 3 | 2 | 1 | 0 | 0 |
-| | Diseño de componentes de interfaz reutilizables | Azul | 7 | 4 | 3 | 2 | 0 | 0 |
+| | Diseño de componentes de interfaz reutilizables |  | 7 | 4 | 3 | 2 | 0 | 0 |
 | **Seguridad** | Diseño de pantallas de autenticación (login/registro) | Guillermo | 6 | 4 | 3 | 2 | 0 | 0 |
 | **Modo enfoque** | Diseño de selector de modos y descripciones | Edrick | 8 | 4 | 2 | 0 | 0 | 0 |
 | | Diseño de interfaz de temporizador (Pomodoro, etc.) | Edrick | 9 | 9 | 9 | 6 | 2 | 0 |
@@ -56,8 +63,8 @@ Aquí se detalla quién es responsable de cada tarea de diseño y el seguimiento
 
 ## Resumen de Carga de Trabajo por Persona
 
-* **Azul** (4 tareas): 27 horas estimadas
+* **Azul** (4 tareas): 20 horas estimadas
 * **Ana** (2 tareas): 14 horas estimadas
 * **Carlos** (2 tareas): 16 horas estimadas
-* **Guillermo** (2 tareas): 13 horas estimadas
+* **Guillermo** (2 tareas): 6 horas estimadas
 * **Edrick** (2 tareas): 17 horas estimadas
