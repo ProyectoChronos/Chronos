@@ -56,7 +56,7 @@ Aquí se detalla quién es responsable de cada tarea de diseño y el seguimiento
 
 ## Resumen de Carga de Trabajo por Persona
 
-* **Azul** (3 tareas): 20 horas estimadas
+* **Azul** (4 tareas): 20 horas estimadas
 * **Ana** (2 tareas): 14 horas estimadas
 * **Carlos** (2 tareas): 16 horas estimadas
 * **Guillermo** (2 tareas): 13 horas estimadas
