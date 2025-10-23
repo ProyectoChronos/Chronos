@@ -57,14 +57,14 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Competencias Específicas](competencias/especificas.md)
 
 ### 5. [Sprint 1](sprint-1/)
-- [Reunión #1](reuniones/reunión-1.mp4)
-- [Día 1](reuniones/dia_1.mp4)
-- [Día 2](reuniones/dia_2.mp4)
-- [Día 3](reuniones/dia_3.mp4)
-- [Día 4](reuniones/dia_4.mp4)
-- [Día 5](reuniones/dia_5.mp4)
-- [Product Backlog](sprint-1/P-Backlog.md)
-- [Sprint Tracking](sprint-1/Sprint-Tracking.md)
+- [Reunión #1](Scrum/sprint-1/reunión-1.mp4)
+- [Día 1](Scrum/sprint-1/dia_1.mp4)
+- [Día 2](Scrum/sprint-1/dia_2.mp4)
+- [Día 3](Scrum/sprint-1/dia_3.mp4)
+- [Día 4](Scrum/sprint-1/dia_4.mp4)
+- [Día 5](Scrum/sprint-1/dia_5.mp4)
+- [Product Backlog](Scrum/sprint-1/P-Backlog.md)
+- [Sprint Tracking](Scrum/sprint-1/Sprint-Tracking.md)
 
 ---
 
