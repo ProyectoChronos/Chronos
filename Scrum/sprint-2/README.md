@@ -22,31 +22,40 @@
 
 <br>
 
-# Sprint Tracking - Diseño (Sprint 1)
+# Sprint Tracking - User Research (Sprint 2)
 
 ## Asignación de Tareas y Seguimiento de Horas
 
-Aquí se detalla quién es responsable de cada tarea de diseño y el seguimiento del trabajo restante durante el sprint de 5 días.
+Objetivo del Sprint: Validar las necesidades del usuario, probar el prototipo inicial y definir el perfil del usuario.
 
-| Backlog Item (Módulo) | Task (Tarea de Diseño) | Task Owner | Initial Estimate (horas) | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+| Backlog Item (Investigación) | Task (Tarea de Investigación) | Task Owner | Initial Estimate (horas) | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Gestión de tareas** | Diseño UI/UX para creación y clasificación de tareas | **Azul** | 8 | 5 | 3 | 2 | 0 | 0 |
-| | Diseño de barra de progreso y recordatorios | **Ana** | 6 | 3 | 2 | 1 | 0 | 0 |
-| **Calendario integrado** | Diseño de vistas: Semanal, Diaria, Mensual | **Carlos** | 10 | 6 | 4 | 2 | 0 | 0 |
-| | Diseño de indicadores de color por categoría | **Azul** | 7 | 5 | 3 | 2 | 0 | 0 |
-| **Usabilidad y accesibilidad** | Definición de paleta de colores y tipografía | **Azul** | 5 | 3 | 2 | 1 | 0 | 0 |
-| | Diseño de componentes de interfaz reutilizables | **Guillermo**| 7 | 4 | 3 | 2 | 0 | 0 |
-| **Seguridad** | Diseño de pantallas de autenticación (login/registro) | **Guillermo**| 6 | 4 | 3 | 2 | 0 | 0 |
-| **Modo enfoque** | Diseño de selector de modos y descripciones | **Edrick** | 8 | 4 | 2 | 0 | 0 | 0 |
-| | Diseño de interfaz de temporizador (Pomodoro, etc.) | **Edrick** | 9 | 9 | 9 | 6 | 2 | 0 |
-| **Gamificación** | Diseño de sistema de recompensas y logros | **Carlos** | 6 | 4 | 2 | 1 | 0 | 0 |
-| **Bienestar y hábitos** | Diseño de seguimiento de estado de ánimo y hábitos | **Ana** | 8 | 2 | 1 | 1 | 0 | 0 |
-| **TOTAL** | | | **80** | **49** | **34** | **20** | **2** | **0** |
+| **Definición de Usuario** | Definir 2 "User Personas" (perfiles de usuario) |  | 6 | 4 | 2 | 0 | 0 | 0 |
+| **Validación de Hipótesis**| Crear y distribuir encuesta de validación (Google Forms) |  | 8 | 5 | 2 | 0 | 0 | 0 |
+| | Analizar y graficar resultados de la encuesta |  | 6 | 6 | 4 | 2 | 0 | 0 |
+| **Entrevistas (Cualitativo)** | Preparar guion y agendar 5 entrevistas con usuarios |  | 8 | 5 | 2 | 0 | 0 | 0 |
+| | Realizar 5 entrevistas y transcribir hallazgos |  | 10 | 10 | 8 | 5 | 2 | 0 |
+| **Pruebas de Prototipo** | Preparar tareas y prototipo para 5 pruebas de usabilidad | | 8 | 5 | 2 | 0 | 0 | 0 |
+| | Ejecutar 5 pruebas de usabilidad (grabar sesiones) | | 10 | 10 | 8 | 6 | 3 | 0 |
+| **Análisis de Competencia** | Analizar 3 apps de la competencia (Todoist, TickTick, etc.) |  | 10 | 7 | 4 | 2 | 0 | 0 |
+| | Crear reporte de Fortalezas/Debilidades de competencia |  | 6 | 6 | 4 | 2 | 0 | 0 |
+| **Cierre de Sprint** | Consolidar hallazgos en "Reporte de Descubrimiento" |  | 8 | 8 | 6 | 4 | 2 | 0 |
+| **TOTAL** | | | **80** | **66** | **42** | **21** | **7** | **0** |
+
+## Resumen del Sprint
+
+- **Estimación inicial total**: 80 horas
+- **Trabajo restante por día**:
+  - Día 1: 66 horas
+  - Día 2: 42 horas
+  - Día 3: 21 horas
+  - Día 4: 7 horas
+  - Día 5: 0 horas (completado)
 
 ## Resumen de Carga de Trabajo por Persona
 
-* **Azul** (3 tareas): 20 horas estimadas
-* **Ana** (2 tareas): 14 horas estimadas
-* **Carlos** (2 tareas): 16 horas estimadas
-* **Guillermo** (2 tareas): 13 horas estimadas
-* **Edrick** (2 tareas): 17 horas estimadas
+* **Azul** 
+* **Carlos** 
+* **Ana** 
+* **Guillermo** 
+* **Edrick** 
