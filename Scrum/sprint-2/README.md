@@ -30,16 +30,16 @@ Objetivo del Sprint: Validar las necesidades del usuario, probar el prototipo in
 
 | Backlog Item (Investigación) | Task (Tarea de Investigación) | Task Owner | Initial Estimate (horas) | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Definición de Usuario** | Definir 2 "User Personas" (perfiles de usuario) |  | 6 | 4 | 2 | 0 | 0 | 0 |
-| **Validación de Hipótesis**| Crear y distribuir encuesta de validación (Google Forms) |  | 8 | 5 | 2 | 0 | 0 | 0 |
-| | Analizar y graficar resultados de la encuesta |  | 6 | 6 | 4 | 2 | 0 | 0 |
+| **Definición de Usuario** | Definir 2 "User Personas" (perfiles de usuario) | Edrick | 6 | 4 | 2 | 0 | 0 | 0 |
+| **Validación de Hipótesis**| Crear y distribuir encuesta de validación (Google Forms) | Azul | 8 | 5 | 2 | 0 | 0 | 0 |
+| | Analizar y graficar resultados de la encuesta | Azul | 6 | 6 | 4 | 2 | 0 | 0 |
 | **Entrevistas (Cualitativo)** | Preparar guion y agendar 5 entrevistas con usuarios |  | 8 | 5 | 2 | 0 | 0 | 0 |
 | | Realizar 5 entrevistas y transcribir hallazgos |  | 10 | 10 | 8 | 5 | 2 | 0 |
 | **Pruebas de Prototipo** | Preparar tareas y prototipo para 5 pruebas de usabilidad | | 8 | 5 | 2 | 0 | 0 | 0 |
 | | Ejecutar 5 pruebas de usabilidad (grabar sesiones) | | 10 | 10 | 8 | 6 | 3 | 0 |
 | **Análisis de Competencia** | Analizar 3 apps de la competencia (Todoist, TickTick, etc.) |  | 10 | 7 | 4 | 2 | 0 | 0 |
 | | Crear reporte de Fortalezas/Debilidades de competencia |  | 6 | 6 | 4 | 2 | 0 | 0 |
-| **Cierre de Sprint** | Consolidar hallazgos en "Reporte de Descubrimiento" |  | 8 | 8 | 6 | 4 | 2 | 0 |
+| **Cierre de Sprint** | Consolidar hallazgos en "Reporte de Descubrimiento" | Edrick | 8 | 8 | 6 | 4 | 2 | 0 |
 | **TOTAL** | | | **80** | **66** | **42** | **21** | **7** | **0** |
 
 ## Resumen del Sprint
