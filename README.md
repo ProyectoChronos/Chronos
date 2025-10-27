@@ -25,6 +25,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - Modo offline básico para funcionalidad esencial
 
 **Limitaciones del alcance:**
+
 - No incluye gestión financiera o contabilidad
 - Funcionalidad offline limitada a operaciones básicas
 - Capacidad de almacenamiento limitada para archivos grandes
@@ -34,17 +35,20 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 ## 📚 Tabla de Contenido
 
 ### 1. [Producto](producto/)
+
 - [Descripción del Producto](producto/descripcion.md)
 - [Usuarios / Clientes](producto/usuarios.md)
 - [Propuesta de Valor](producto/propuesta-valor.md)
 
 ### 2. [Requisitos](requisitos/)
+
 - [Requisitos Funcionales](requisitos/funcionales.md)
 - [Requisitos No Funcionales](requisitos/no-funcionales.md)
 - [Priorización](requisitos/priorizacion.md)
 - [Artefactos](requisitos/artefactos.md)
 
 ### 3. [Proceso](proceso/)
+
 - [Descripción del Proceso](proceso/descripcion.md)
 - [Gestión del Proceso](proceso/gestion.md)
 - [Métrica de Contribución Individual](proceso/metricas.md)
@@ -53,14 +57,14 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 ### 4. [Presentación del Avance](presentacion.md)
 
 ### 5. [Competencias](competencias/)
+
 - [Competencias Genéricas](competencias/genericas.md)
 - [Competencias Específicas](competencias/especificas.md)
-
-<br>
 
 ## Scrum
 
 ### 1. [Sprint 1](Scrum/sprint-1/)
+
 - [Reunión #1](Scrum/sprint-1/reunión-1.mp4)
 - [Día 1](Scrum/sprint-1/dia_1.mp4)
 - [Día 2](Scrum/sprint-1/dia_2.mp4)
@@ -71,23 +75,26 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Sprint Tracking](Scrum/sprint-1/Sprint-Tracking.md)
 
 ### 2. [Sprint 2](Scrum/sprint-2/)
+
 - [Product Backlog](Scrum/sprint-2/P-Backlog.md)
 - [Sprint Tracking](Scrum/sprint-2/Sprint-Tracking.md)
----
 
 ## 👥 Equipo de Desarrollo
 
-### Integrantes:
+### Integrantes
+
 - **CAUICH MEDINA CARLOS JESÚS**
 - **ITZA LÓPEZ AZUL VALERIA**
 - **LAVADORES GRANIEL ANA REGINA**
 - **PEÑA GARCÍA GUILLERMO**
 - **PUC CHAN EDRICK MISAEL**
 
-### Profesora:
+### Profesora
+
 - **CABALLERO CHI LEYDI OFELIA**
 
-### Fecha de Inicio:
+### Fecha de Inicio
+
 - **29 de Septiembre de 2025**
 
 ---
