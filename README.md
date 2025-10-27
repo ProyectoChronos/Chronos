@@ -69,7 +69,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 
 ### 1. [Sprint 1 Diseño](Scrum/sprint-1/)
 
-### Daily Scrum
+#### Daily Scrum
 
 - [Playlist Daily Scrum](https://www.youtube.com/playlist?list=PLKGXBt1VDmtNhxKvR0-1Swn4W1n8uFwnx)
 
