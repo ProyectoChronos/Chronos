@@ -1,3 +1,5 @@
+# Daily Scrum
+
 # Product Backlog - Chronos
 
 ## Backlog de Módulos y Funcionalidades
