@@ -12,7 +12,7 @@
 
 | | Datos Personales |
 | :---: | :--- |
-| ![Foto de Esteban el Estudiante](/Scrum/img/Esteban.svg) | **Nombre:** Esteban "El Abrumado"<br><br>**Datos:** 20 años, Estudiante universitario.<br><br>**Bio:** Esteban es un estudiante que se distrae fácilmente. Siempre tiene "muchas tareas", proyectos y exámenes, y le cuesta trabajo organizarse, lo que le genera estrés. |
+| ![Foto de Esteban el Estudiante](/img/Esteban.svg) | **Nombre:** Esteban "El Abrumado"<br><br>**Datos:** 20 años, Estudiante universitario.<br><br>**Bio:** Esteban es un estudiante que se distrae fácilmente. Siempre tiene "muchas tareas", proyectos y exámenes, y le cuesta trabajo organizarse, lo que le genera estrés. |
 
 <br>
 
@@ -26,7 +26,7 @@
 
 | | Datos Personales |
 | :---: | :--- |
-| ![Foto de Mónica la Multitareas](/Scrum/img/Monica.svg) | **Nombre:** Mónica "La Ocupada"<br><br>**Datos:** 29 años, Empleada / Persona con múltiples compromisos.<br><br>**Bio:** Mónica es una persona que balancea "múltiples compromisos", incluyendo tareas académicas, laborales y personales. Su día está lleno de reuniones y objetivos diarios. |
+| ![Foto de Mónica la Multitareas](/img/Monica.svg) | **Nombre:** Mónica "La Ocupada"<br><br>**Datos:** 29 años, Empleada / Persona con múltiples compromisos.<br><br>**Bio:** Mónica es una persona que balancea "múltiples compromisos", incluyendo tareas académicas, laborales y personales. Su día está lleno de reuniones y objetivos diarios. |
 
 <br>
 

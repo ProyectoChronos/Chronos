@@ -1,4 +1,8 @@
-# 🕰️ CHRONOS
+# CHRONOS
+
+<img src="img/logochronos.png" alt="logo chronos" width="100">
+
+---
 
 **Universidad Autónoma de Yucatán**  
 **Facultad de Matemáticas**  
@@ -63,7 +67,11 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 
 ## Scrum
 
-### 1. [Sprint 1](Scrum/sprint-1/)
+### 1. [Sprint 1 Diseño](Scrum/sprint-1/)
+
+### Daily Scrum
+
+- [Playlist Daily Scrum](https://www.youtube.com/playlist?list=PLKGXBt1VDmtNhxKvR0-1Swn4W1n8uFwnx)
 
 - [Reunión #1](Scrum/sprint-1/reunión-1.mp4)
 - [Día 1](Scrum/sprint-1/dia_1.mp4)
@@ -71,10 +79,19 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Día 3](Scrum/sprint-1/dia_3.mp4)
 - [Día 4](Scrum/sprint-1/dia_4.mp4)
 - [Día 5](Scrum/sprint-1/dia_5.mp4)
+
+### Product Backlog y Sprint 1 Traking
+
 - [Product Backlog](Scrum/sprint-1/P-Backlog.md)
 - [Sprint Tracking](Scrum/sprint-1/Sprint-Tracking.md)
 
-### 2. [Sprint 2](Scrum/sprint-2/)
+### 2. [Sprint 2 User Research](Scrum/sprint-2/)
+
+- Daily Scrum
+
+- [Playlist Daily Scrum](https://youtube.com/playlist?list=PLKGXBt1VDmtM4mtU2msXJawkn1VKvVSgd&si=BgPTEExhclD8Qs6o)
+
+### Product Backlog y Sprint 2 Traking
 
 - [Product Backlog](Scrum/sprint-2/P-Backlog.md)
 - [Sprint Tracking](Scrum/sprint-2/Sprint-Tracking.md)
