@@ -6,40 +6,33 @@
 
 ---
 
-## 1. User Personas (Definido por Edrick)
+# 1. User Personas (Definido por Edrick)
 
-Basado en las historias de usuario y los datos iniciales, definimos dos perfiles clave que representan a nuestro público objetivo.
+## User Persona 1: "Esteban el Estudiante"
 
-### User Persona 1: "Esteban el Estudiante"
-* **(Foto de stock de un estudiante universitario)**
-* **Nombre:** Esteban "El Abrumado"
-* **Datos:** 20 años, Estudiante universitario.
-* **Bio:** Esteban es un estudiante que se distrae fácilmente. Siempre tiene "muchas tareas", proyectos y exámenes, y le cuesta trabajo organizarse, lo que le genera estrés.
-* **Frustraciones (Dolores):**
-    * Se distrae mucho al tratar de estudiar.
-    * Tiene tantos pendientes que no sabe por dónde empezar.
-    * Siente estrés por la desorganización.
-    * Usa post-its o notas físicas que son fáciles de olvidar o perder (Hallazgo de Entrevistas).
-* **Necesita de Chronos:**
-    * Poder agregar y clasificar sus tareas por fecha límite y prioridad.
-    * Recibir **recomendaciones inteligentes** que le digan con qué tarea empezar.
-    * Un **"Modo Enfoque"** que incluya diferentes técnicas de estudio como Pomodoro.
-    * Recordatorios automáticos que le avisen de sus tareas.
+| | Datos Personales |
+| :---: | :--- |
+| ![Foto de Esteban el Estudiante](/img/Esteban.svg) | **Nombre:** Esteban "El Abrumado"<br><br>**Datos:** 20 años, Estudiante universitario.<br><br>**Bio:** Esteban es un estudiante que se distrae fácilmente. Siempre tiene "muchas tareas", proyectos y exámenes, y le cuesta trabajo organizarse, lo que le genera estrés. |
 
-### User Persona 2: "Mónica la Multitareas"
-* **(Foto de stock de una persona trabajando en casa)**
-* **Nombre:** Mónica "La Ocupada"
-* **Datos:** 29 años, Empleada / Persona con múltiples compromisos.
-* **Bio:** Mónica es una persona que balancea "múltiples compromisos", incluyendo tareas académicas, laborales y personales. Su día está lleno de reuniones y objetivos diarios.
-* **Frustraciones (Dolores):**
-    * Su información está regada (usa Google Calendar y libretas físicas); no puede "visualizar todo en un solo lugar".
-    * Siente que el calendario es para "eventos", no para "tareas", y se le mezclan (Hallazgo de Entrevistas).
-    * Le cuesta mantener un equilibrio en su vida.
-* **Necesita de Chronos:**
-    * Un **calendario integrado** para ver todas sus tareas.
-    * Que el calendario tenga vistas diaria, semanal y mensual.
-    * Poder diferenciar sus tareas (laborales vs. personales) con colores o etiquetas.
+<br>
 
+| Frustraciones (Dolores) | Metas (Goals) | Necesita de Chronos |
+| :--- | :--- | :--- |
+| <ul><li>Se distrae mucho al tratar de estudiar.</li><li>Tiene tantos pendientes que no sabe por dónde empezar.</li><li>Siente estrés por la desorganización.</li><li>Usa post-its o notas físicas que son fáciles de olvidar o perder.</li></ul> | <ul><li>Reducir su estrés organizando mejor sus pendientes.</li><li>Administrar mejor su tiempo y priorizar.</li><li>Poder concentrarse en sus actividades.</li></ul> | <ul><li>Poder agregar y clasificar sus tareas.</li><li>Recibir **recomendaciones inteligentes**.</li><li>Un **"Modo Enfoque"** (Pomodoro).</li><li>Recordatorios automáticos.</li></ul> |
+
+---
+
+## User Persona 2: "Mónica la Multitareas"
+
+| | Datos Personales |
+| :---: | :--- |
+| ![Foto de Mónica la Multitareas](/img/Monica.svg) | **Nombre:** Mónica "La Ocupada"<br><br>**Datos:** 29 años, Empleada / Persona con múltiples compromisos.<br><br>**Bio:** Mónica es una persona que balancea "múltiples compromisos", incluyendo tareas académicas, laborales y personales. Su día está lleno de reuniones y objetivos diarios. |
+
+<br>
+
+| Frustraciones (Dolores) | Metas (Goals) | Necesita de Chronos |
+| :--- | :--- | :--- |
+| <ul><li>Su información está regada (libretas, Google Calendar).</li><li>Le cuesta mantener un equilibrio en su vida.</li><li>Siente que el calendario es para "eventos" y no para "tareas".</li></ul> | <ul><li>Visualizar todo en un solo lugar.</li><li>Mantener un equilibrio en su vida.</li><li>Evitar retrasos y la acumulación de tareas.</li></ul> | <ul><li>Un **calendario integrado**.</li><li>Vistas diaria, semanal y mensual.</li><li>Diferenciar tareas con colores o etiquetas.</li></ul> |
 ---
 
 ## 2. Hallazgos de Encuestas (Datos de Azul)
