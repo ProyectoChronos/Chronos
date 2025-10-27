@@ -1,5 +1,5 @@
 # Daily Scrum
-- [Playlist Daily Scrum] (https://www.youtube.com/playlist?list=PLKGXBt1VDmtNhxKvR0-1Swn4W1n8uFwnx)
+- [Playlist Daily Scrum](https://www.youtube.com/playlist?list=PLKGXBt1VDmtNhxKvR0-1Swn4W1n8uFwnx)
 
 # Product Backlog - Chronos
 
