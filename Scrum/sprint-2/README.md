@@ -40,7 +40,7 @@ Objetivo del Sprint: Validar las necesidades del usuario, probar el prototipo in
 | **Entrevistas (Cualitativo)** | Preparar guion y agendar 5 entrevistas con usuarios | Ana  | 8 | 5 | 3  | 1 | 1 | 0 |
 | | Realizar 5 entrevistas y transcribir hallazgos | Ana | 10 | 10 | 10 | 4 | 2 | 0 |
 | **Pruebas de Prototipo** | Preparar tareas y prototipo para 5 pruebas de usabilidad | Guillermo | 8 | 6 | 4 | 2 | 1 | 0 |
-| | Ejecutar 5 pruebas de usabilidad (grabar sesiones) Guillermo | 10 | 10 | 10 | 10 | 6 | 0 |
+| | Ejecutar 5 pruebas de usabilidad (grabar sesiones) | Guillermo | 10 | 10 | 10 | 10 | 6 | 0 |
 | **Análisis de Competencia** | Analizar 3 apps de la competencia (Todoist, TickTick, etc.) | Carlos | 10 | 7 | 3 | 0 | 0 | 0 |
 | | Crear reporte de Fortalezas/Debilidades de competencia | Carlos | 6 | 4 | 3 | 2 | 2 | 0 |
 | **Cierre de Sprint** | Consolidar hallazgos en "Reporte de Descubrimiento" | Edrick | 8 | 8 | 8 | 8 | 8 | 0 |
