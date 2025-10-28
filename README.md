@@ -67,6 +67,8 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 
 ## Scrum
 
+### [Product Backlog General](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/EasHvR7dMItBuxfOiwcSyuIBT_sD_jSaBle9HIRzSE8VZQ?e=9vLwdt)
+
 ### 1. [Sprint 1 Diseño](Scrum/sprint-1/)
 
 #### Daily Scrum
