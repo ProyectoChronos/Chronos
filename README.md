@@ -56,6 +56,10 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Competencias Genéricas](competencias/genericas.md)
 - [Competencias Específicas](competencias/especificas.md)
 
+### 6. Scrum
+
+- [Excel del Scrum](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/EasHvR7dMItBuxfOiwcSyuIBT_sD_jSaBle9HIRzSE8VZQ?e=9vLwdt)
+
 ---
 
 ## 👥 Equipo de Desarrollo
