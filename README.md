@@ -98,6 +98,8 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - [Product Backlog](Scrum/sprint-2/P-Backlog.md)
 - [Sprint Tracking](Scrum/sprint-2/Sprint-Tracking.md)
 
+## [Prueba de Usabilidad](/Prueba%20de%20Usabilidad/)
+
 ## 👥 Equipo de Desarrollo
 
 ### Integrantes
