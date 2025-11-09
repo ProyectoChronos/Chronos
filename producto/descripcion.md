@@ -6,7 +6,7 @@
 
 ## Visión del Producto
 
-Crear una herramienta que no solo organice tareas, sino que motive a los usuarios a desarrollar hábitos productivos duraderos mediante elementos de juego y un enfoque integral en el bienestar personal y profesional.
+Crear una herramienta que no solo organice tareas, sino que motive a los usuarios a desarrollar hábitos productivos duraderos mediante elementos de juego y un enfoque integral en el bienestar personal.
 
 ## Misión
 
@@ -14,49 +14,48 @@ Proporcionar una plataforma intuitiva y motivadora que ayude a personas de todas
 
 ## Características Principales
 
-### 📊 Gestión Inteligente de Tareas
-- Creación y organización de tareas con categorización flexible
-- Sistema de prioridades y fechas límite
-- Subtareas y dependencias entre actividades
-- Vista de calendario integrada
+### 📊 Gestión de Tareas
+
+- Creación y organización de tareas con categorización flexible (categorías y subcategorías).
+- Sistema de prioridades y fechas límite.
+- Vista de calendario integrada (diaria, semanal y mensual).
+- Indicador visual del progreso (tareas completadas vs. pendientes).
 
 ### 🎮 Sistema de Gamificación
-- Puntos por completar tareas y objetivos
-- Niveles de progreso personal
-- Logros desbloqueables y insignias
-- Retos grupales y competencias amigables
 
-### 🧘 Herramientas de Bienestar
-- Check-in diario de estado de ánimo
-- Temporizador Pomodoro para sesiones de enfoque
-- Recordatorios de descansos y bienestar
-- Métricas de balance trabajo-vida
+- Sistema de recompensas por completar tareas.
+- Niveles de progreso personal.
+- Logros desbloqueables e insignias.
 
-### 👥 Colaboración y Trabajo en Equipo
-- Espacios de trabajo compartidos
-- Asignación de tareas en equipo
-- Logros grupales y colaborativos
-- Sistema de comunicación integrado
+### 🧘 Herramientas de Bienestar y Enfoque
 
-### 🔔 Notificaciones Inteligentes
-- Recordatorios personalizados
-- Notificaciones basadas en contexto y ubicación
-- Alertas de fechas límite y objetivos
+- Check-in diario de estado de ánimo.
+- Modo Enfoque con técnicas como Pomodoro.
+- Personalización de intervalos de trabajo/descanso.
+- Historial de sesiones de enfoque.
+- Recordatorios de descansos y sugerencias de rutinas saludables.
+
+### 🔔 Notificaciones
+
+- Recordatorios automáticos sobre tareas pendientes.
+- Notificaciones de los eventos agendados en el calendario.
+- Notificaciones de cambios de ciclo en el Modo Enfoque (trabajo/descanso).
 
 ## Diferenciadores Clave
 
-1. **Enfoque Integral**: No solo gestiona tareas, sino que desarrolla hábitos productivos
-2. **Gamificación Motivadora**: Convierte la productividad en una experiencia divertida y enganchante
-3. **Bienestar Personal**: Incluye herramientas para mantener un equilibrio saludable
-4. **Simplicidad con Potencia**: Interfaz intuitiva con funcionalidades avanzadas
-5. **Colaboración Gamificada**: Trabajo en equipo con elementos de juego y competencia sana
+1.  **Enfoque Integral**: No solo gestiona tareas, sino que desarrolla hábitos productivos.
+2.  **Gamificación Motivadora**: Convierte la productividad en una experiencia divertida y enganchante.
+3.  **Bienestar Personal**: Incluye herramientas para mantener un equilibrio saludable.
+4.  **Simplicidad y Accesibilidad**: Interfaz intuitiva diseñada para todos, sin importar el nivel técnico o las capacidades físicas.
+5.  **Seguridad y Confianza**: Compromiso con la privacidad mediante autenticación segura y cifrado de datos.
 
 ## Tecnología
 
-- **Plataforma**: Aplicación web responsive
-- **Accesibilidad**: Compatible con dispositivos móviles, tablets y escritorio
-- **Modo Offline**: Funcionalidad básica sin conexión a internet
-- **Sincronización**: Datos sincronizados en tiempo real entre dispositivos
+- **Plataforma**: Aplicación web responsive.
+- **Accesibilidad**: Diseño enfocado en la inclusión, accesible para personas con diversas capacidades físicas y niveles técnicos.
+- **Disponibilidad**: Funcionalidad básica en **Modo Offline**.
+- **Seguridad**: Autenticación segura y **cifrado** para proteger los datos del usuario.
+- **Sincronización**: Datos sincronizados en tiempo real entre dispositivos.
 
 ## Posicionamiento en el Mercado
 
@@ -64,4 +63,4 @@ CHRONOS se posiciona como el "organizador personal inteligente" que va más all�
 
 ---
 
-*CHRONOS: Donde la productividad se encuentra con el bienestar personal* ⏰✨
+_CHRONOS: Donde la productividad se encuentra con el bienestar personal_ ⏰✨
