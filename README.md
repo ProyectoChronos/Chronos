@@ -55,10 +55,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 
 ### 3. [Proceso](proceso/)
 
-- [Descripción del Proceso](proceso/descripcion.md)
-- [Gestión del Proceso](proceso/gestion.md)
-- [Métrica de Contribución Individual](proceso/metricas.md)
-- [Organización y Documentación del Repositorio](proceso/organizacion.md)
+- [Métrica de Contribución Individual](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a21200753_alumnos_uady_mx/Ee4ojjFZlPZDt0OfMfE5o40BAsXcCVglB6aIAuY5zf72gw?e=MienER)
 
 ### 4. [Presentación del Avance](https://www.canva.com/design/DAG4Qqz-uJc/KoSJqR5ZA2mq8qpdoCUruw/edit?utm_content=DAG4Qqz-uJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
