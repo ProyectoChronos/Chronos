@@ -2,6 +2,7 @@
 
 - **[Playlist Daily Scrum](https://www.youtube.com/playlist?list=PLKGXBt1VDmtNhxKvR0-1Swn4W1n8uFwnx)**
 
+- **[Interfaces](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a25216452_alumnos_uady_mx/EaloQFLVnm1Hrv2kbIMYyugBmzodblQiJUpqYnwKRx5tdQ?e=ct6LaC)**
 # Product Backlog - Chronos
 
 ## Backlog de Módulos y Funcionalidades
