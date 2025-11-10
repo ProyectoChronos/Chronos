@@ -84,6 +84,8 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 
 #### Product Backlog y Sprint 1 Traking
 
+- [Interfaces](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a25216452_alumnos_uady_mx/EaloQFLVnm1Hrv2kbIMYyugBmzodblQiJUpqYnwKRx5tdQ?e=ct6LaC)
+
 - [Product Backlog](Scrum/sprint-1/P-Backlog.md)
 - [Sprint Tracking](Scrum/sprint-1/Sprint-Tracking.md)
 
