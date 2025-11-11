@@ -55,7 +55,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 
 ### 3. [Proceso](proceso/)
 
-- [Métrica de Contribución Individual]([https://alumnosuady-my.sharepoint.com/:w:/g/personal/a21200753_alumnos_uady_mx/Ee4ojjFZlPZDt0OfMfE5o40BAsXcCVglB6aIAuY5zf72gw?e=MienER](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/EasHvR7dMItBuxfOiwcSyuIBT_sD_jSaBle9HIRzSE8VZQ?e=FdDoHj))
+- [Métrica de Contribución Individual(https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/EVNjlEMTeRRChKTQud9XIEYBg__RAUGntTlEbQBo44SNdg?e=U89GUP)
 
 ### 4. [Presentación del Avance](https://www.canva.com/design/DAG4Qqz-uJc/KoSJqR5ZA2mq8qpdoCUruw/edit?utm_content=DAG4Qqz-uJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
