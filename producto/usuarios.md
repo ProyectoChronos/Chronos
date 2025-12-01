@@ -1,155 +1,101 @@
-# 👥 Usuarios / Clientes
+# 👥 Usuarios / Clientes - Proyecto CHRONOS
 
-## Perfil de Usuarios Objetivo
-
-### 🎓 Estudiantes Universitarios y de Secundaria
-**Características:**
-- Edad: 15-25 años
-- Necesidades: Organizar tareas académicas, proyectos, exámenes y actividades extracurriculares
-- Motivaciones: Mejorar calificaciones, reducir estrés académico, desarrollar hábitos de estudio
-
-**Casos de Uso:**
-- Gestión de fechas de entrega de proyectos
-- Planificación de horarios de estudio
-- Seguimiento de avance en materias
-- Colaboración en proyectos grupales
-
-### 💼 Profesionales Jóvenes y Experimentados
-**Características:**
-- Edad: 22-45 años
-- Necesidades: Balance trabajo-vida personal, gestión de proyectos, productividad profesional
-- Motivaciones: Avance profesional, eficiencia laboral, reducción de estrés
-
-**Casos de Uso:**
-- Gestión de proyectos y deadlines profesionales
-- Organización de reuniones y tareas diarias
-- Seguimiento de objetivos profesionales
-- Colaboración con equipos de trabajo
-
-### 👨‍👩‍👧‍👦 Padres de Familia y Personas con Múltiples Responsabilidades
-**Características:**
-- Edad: 25-50 años
-- Necesidades: Equilibrar responsabilidades familiares, trabajo y vida personal
-- Motivaciones: Mejor organización familiar, tiempo de calidad, eficiencia personal
-
-**Casos de Uso:**
-- Coordinación de actividades familiares
-- Gestión de citas médicas y escolares
-- Organización de tareas domésticas
-- Planificación de actividades recreativas
-
-### 🚀 Emprendedores y Freelancers
-**Características:**
-- Edad: 20-40 años
-- Necesidades: Autogestión, múltiples proyectos simultáneos, gestión del tiempo flexible
-- Motivaciones: Crecimiento del negocio, organización personal, productividad independiente
-
-**Casos de Uso:**
-- Gestión de múltiples clientes y proyectos
-- Seguimiento de objetivos de negocio
-- Organización de tareas administrativas
-- Planificación de estrategias de crecimiento
-
-### 👴👵 Adultos Mayores (55+ años)
-**Características:**
-- Edad: 55+ años
-- Necesidades: Recordatorios simples, organización de actividades, bienestar personal
-- Motivaciones: Mantener independencia, organización personal, bienestar social
-
-**Casos de Uso:**
-- Recordatorios de medicamentos y citas médicas
-- Organización de actividades sociales
-- Seguimiento de hábitos saludables
-- Planificación de actividades recreativas
-
-## Segmentación de Mercado
-
-### 🎯 Mercado Primario
-- **Estudiantes universitarios** (18-25 años)
-- **Profesionales jóvenes** (22-35 años)
-- Características: Nativos digitales, alta adopción de tecnología, buscan eficiencia y gamificación
-
-### 🎯 Mercado Secundario
-- **Profesionales experimentados** (35-50 años)
-- **Padres de familia** con responsabilidades múltiples
-- Características: Valoran la funcionalidad práctica, buscan balance vida-trabajo
-
-### 🎯 Mercado Terciario
-- **Emprendedores y freelancers** de todas las edades
-- **Adultos mayores** interesados en tecnología
-- Características: Necesidades específicas, adopción más gradual de tecnología
-
-## Personas (User Personas)
-
-### María - La Estudiante Organizada
-- **Edad:** 20 años, Estudiante de Ingeniería
-- **Objetivos:** Mejorar sus calificaciones, reducir estrés de exámenes
-- **Frustraciones:** Olvida fechas de entrega, se siente abrumada con múltiples materias
-- **Cómo usa CHRONOS:** Planifica horarios de estudio, recibe recordatorios de tareas, compite con compañeros en retos de productividad
-
-### Carlos - El Profesional Ocupado
-- **Edad:** 32 años, Gerente de Marketing
-- **Objetivos:** Aumentar productividad laboral, tener más tiempo para familia
-- **Frustraciones:** Reuniones constantes, múltiples proyectos simultáneos, estrés laboral
-- **Cómo usa CHRONOS:** Organiza reuniones y deadlines, usa temporizador Pomodoro, colabora con su equipo
-
-### Ana - La Madre Multitarea
-- **Edad:** 38 años, Contadora y madre de 2 hijos
-- **Objetivos:** Equilibrar trabajo y familia, ser más eficiente en casa
-- **Frustraciones:** Falta de tiempo personal, coordinación familiar compleja
-- **Cómo usa CHRONOS:** Coordina actividades familiares, recibe recordatorios de citas, planifica tiempo personal
-
-### Luis - El Emprendedor Digital
-- **Edad:** 28 años, Fundador de startup
-- **Objetivos:** Hacer crecer su negocio, mantener productividad alta
-- **Frustraciones:** Múltiples proyectos, autogestión difícil, distracciones constantes
-- **Cómo usa CHRONOS:** Gestiona proyectos de clientes, establece objetivos de negocio, usa gamificación para motivación
-
-## Canales de Adquisición de Usuarios
-
-### 🌐 Canales Digitales
-- **Redes Sociales:** Instagram, TikTok, YouTube (estudiantes y profesionales jóvenes)
-- **LinkedIn:** Profesionales y emprendedores
-- **Google Ads:** Búsquedas relacionadas con productividad
-- **App Stores:** Optimización para búsquedas de aplicaciones de productividad
-
-### 🎓 Canales Educativos
-- **Universidades:** Partnerships con instituciones educativas
-- **Eventos Académicos:** Ferias universitarias, conferencias estudiantiles
-- **Programas de Bienestar Estudiantil:** Colaboraciones con centros de apoyo académico
-
-### 💼 Canales Profesionales
-- **Empresas:** Programas corporativos de bienestar y productividad
-- **Coworkings:** Partnerships con espacios de trabajo colaborativo
-- **Eventos de Networking:** Conferencias profesionales, meetups
-
-### 👨‍👩‍👧‍👦 Canales Familiares
-- **Blogs de Padres:** Colaboraciones con influencers familiares
-- **Escuelas:** Programas de organización familiar
-- **Centros Comunitarios:** Talleres de productividad familiar
-
-## Métricas de Usuario
-
-### Adquisición
-- Número de registros mensuales
-- Costo de adquisición por canal
-- Tasa de conversión de visitante a usuario registrado
-
-### Activación
-- Tiempo hasta completar primera tarea
-- Porcentaje de usuarios que completan onboarding
-- Usuarios activos en primeros 7 días
-
-### Retención
-- Usuarios activos diarios/semanales/mensuales
-- Tasa de retención a 7, 30 y 90 días
-- Frecuencia de uso promedio
-
-### Satisfacción
-- Net Promoter Score (NPS)
-- Rating en stores de aplicaciones
-- Feedback y reseñas de usuarios
+## 🎯 Definición del Usuario Primario
+**El foco principal de CHRONOS está en:**
+### 🎓 Estudiantes Universitarios (18-25 años)
+El sistema está optimizado prioritariamente para este grupo debido a su necesidad de gamificación, organización visual y manejo de alto estrés académico.
+* **Características Clave:** Nativos digitales, buscan gratificación instantánea (gamificación), tienen horarios fragmentados.
 
 ---
 
-*CHRONOS diseñado para cada etapa de la vida, adaptándose a las necesidades únicas de cada usuario* 👥✨
+## 📊 Segmentación de Mercado Completa
+
+### Mercado Primario (Core Target)
+- **Estudiantes universitarios** (18-25 años)
+- **Profesionales jóvenes / Junior** (22-35 años)
+- **Perfil:** Usuarios con alta adopción tecnológica que buscan dejar de procastinar mediante incentivos visuales y mecánicas de juego.
+
+### Mercado Secundario
+- **Profesionales experimentados y Gerentes** (35-50 años)
+- **Padres de familia** con múltiples responsabilidades.
+- **Perfil:** Usuarios que valoran la eficiencia pura y la sincronización de calendarios por encima de la gamificación.
+
+### Mercado Terciario (Potenciales)
+- **Emprendedores y Freelancers.**
+- **Adultos mayores** interesados en digitalización.
+
+---
+
+## 👤 User Personas (Arquetipos)
+
+### 1. María - La Estudiante Organizada (Usuario Primario)
+- **Perfil:** 20 años, Estudiante de Ingeniería de Software.
+- **Tecnología:** Usa smartphone gama media-alta y laptop diariamente.
+- **Motivaciones:** Mantener su promedio, tener tiempo libre para videojuegos.
+- **Frustraciones:** Se abruma cuando se juntan proyectos y exámenes; olvida tareas pequeñas.
+- **Necesidad Crítica:** Visualizar su progreso académico como si fuera un nivel de juego.
+
+### 2. Carlos - El Profesional Ocupado
+- **Perfil:** 32 años, Gerente de Marketing.
+- **Tecnología:** Usuario intensivo de tablet y smartphone.
+- **Motivaciones:** Salir a tiempo del trabajo para ver a su familia.
+- **Frustraciones:** Reuniones interminables que no le dejan tiempo para trabajar ("trabajo profundo").
+- **Necesidad Crítica:** Bloques de tiempo sin interrupciones y gestión rápida de tareas.
+
+### 3. Ana - La Madre Multitarea
+- **Perfil:** 38 años, Contadora y madre de 2 hijos.
+- **Motivaciones:** Que no se le olvide ninguna cita médica ni evento escolar.
+- **Frustraciones:** El caos mental de gestionar la agenda de 3 personas (la suya y la de sus hijos).
+
+---
+
+## 🎬 Escenarios de Uso (User Scenarios)
+*Narrativas de uso en situaciones reales*
+
+### Escenario A: María y la "Semana de Exámenes"
+> **Contexto:** Es lunes por la mañana y María tiene 3 exámenes y 1 proyecto para el viernes. Se siente ansiosa.
+>
+> **Acción en CHRONOS:** María abre la app. En lugar de ver una lista aburrida, ve su "Mapa de Misiones". Ingresa sus fechas límite. Chronos desglosa automáticamente el proyecto grande en "mini-quests" (tareas pequeñas) de 30 minutos.
+>
+> **Resultado:** María selecciona la primera misión "Investigación bibliográfica". Activa el temporizador Pomodoro integrado. Al terminar, gana puntos de experiencia (XP) y desbloquea una insignia. Su ansiedad baja al ver que ya avanzó el 10% del proyecto visualmente.
+
+### Escenario B: Carlos y la "Reunión Imprevista"
+> **Contexto:** Carlos está trabajando en un reporte importante, pero su jefe convoca una reunión de emergencia.
+>
+> **Acción en CHRONOS:** Carlos usa la función de "Reprogramación Inteligente". Marca su tarea actual como "Interrumpida".
+>
+> **Resultado:** El sistema busca automáticamente el siguiente hueco libre en su agenda y mueve la tarea del reporte, enviándole una notificación: "No te preocupes, movimos tu reporte para las 4:00 PM". Carlos entra a la reunión tranquilo sabiendo que su agenda sigue bajo control.
+
+---
+
+## 📋 Perfil Detallado de Usuarios Objetivo
+
+### 🎓 Estudiantes (Detalle)
+**Necesidades:**
+- Organizar tareas académicas, proyectos, exámenes.
+- **Casos de Uso:** Gestión de fechas de entrega, Planificación de horarios de estudio, Seguimiento de avance (Barra de progreso).
+
+### 💼 Profesionales Jóvenes (Detalle)
+**Necesidades:**
+- Balance trabajo-vida personal, gestión de proyectos ágiles.
+- **Casos de Uso:** Gestión de deadlines, Organización de reuniones, Bloqueo de tiempo (Time Blocking).
+
+### 🚀 Emprendedores y Freelancers (Detalle)
+**Necesidades:**
+- Autogestión, facturación de horas, múltiples proyectos simultáneos.
+- **Casos de Uso:** Gestión de múltiples clientes, Separación de contextos (Cliente A vs Cliente B).
+
+---
+
+## 📈 Métricas de Éxito de Usuario (KPIs)
+
+### Adquisición & Activación
+- **Costo de Adquisición (CAC):** Por canal (Redes vs. Universidades).
+- **Onboarding Completo:** % de usuarios que configuran su primera "Misión" o tarea en los primeros 10 minutos.
+
+### Retención
+- **Daily Active Users (DAU):** Usuarios que entran a revisar sus tareas diariamente.
+- **Racha de Uso:** Promedio de días consecutivos que un estudiante usa la app.
+
+### Satisfacción
+- **NPS (Net Promoter Score):** ¿Recomendarías Chronos a un compañero de clase?
