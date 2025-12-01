@@ -1,31 +1,30 @@
-# 🚀 Evolución del Producto CHRONOS: Resumen de Cambios Significativos
+# 🔄 Resumen de Evolución del Proyecto CHRONOS (Entregas 1, 2 y 3)
 
-La evolución del producto **CHRONOS** entre la primera entrega (archivos PDF) y la segunda (archivos Markdown) se caracteriza por la **formalización, la consolidación y una clara expansión del alcance** del proyecto, especialmente en aspectos de bienestar y seguridad.
+La evolución del producto CHRONOS a lo largo de las tres entregas demuestra una maduración significativa, pasando de ser una lista básica de funcionalidades a un sistema de ingeniería de software especificado formalmente.
 
-## I. 📋 Consolidación de Requisitos Funcionales (RF)
+A continuación, se sintetizan los cambios más significativos, contando con evidencia documental en el proyecto:
 
-La documentación de los Requisitos Funcionales (RF) pasó de un diagrama a una lista estructurada, lo que mejoró significativamente su claridad.
+### 1. Del "Qué" al "Cómo": Formalización de Artefactos
+Mientras que la documentación inicial consistía en listas básicas sin categorización, la entrega actual incorpora artefactos formales:
+* **Casos de Uso Robustos:** Se evolucionó de descripciones simples a especificaciones que incluyen flujos principales, alternativos y el manejo de excepciones (como interrupciones de red o errores de validación).
+* **Historias de Usuario Verificables:** Las historias han pasado de descripciones generales a especificaciones con **Criterios de Aceptación** medibles y condiciones límite explícitas.
 
-- **Gestión de Tareas y Calendario:** Las funcionalidades base para **crear, clasificar y gestionar tareas** (con fechas límite y prioridad) y el **Calendario Integrado** (con vistas diaria, semanal y mensual) se mantuvieron consistentes, pero se consolidaron en listas claras de requisitos.
-- **Modo Enfoque / Productividad:** El concepto de "Modos de estudio" evolucionó para **formalizar la inclusión de técnicas específicas** como Pomodoro, manteniendo la personalización de intervalos y el historial de sesiones.
-- **Ampliación del Alcance (Nuevas Funcionalidades):** La segunda versión introdujo explícitamente funcionalidades nuevas centradas en la motivación y el bienestar:
-  - **Gamificación:** Se añadió la inclusión de un sistema de **recompensas, niveles, logros e insignias** para fomentar la constancia.
-  - **Bienestar y Hábitos:** Se incluyó el requisito de **sugerir descansos y rutinas saludables**, junto con el seguimiento del estado de ánimo y los hábitos del usuario.
-- **Depuración:** La funcionalidad de **"Recomendaciones Inteligentes"** (analizar tareas para sugerir orden de ejecución) que estaba presente en la primera versión, fue eliminada del listado principal de Requisitos Funcionales en la segunda entrega, aunque se mantuvo como una Historia de Usuario detallada.
+### 2. Refinamiento del Alcance y Diferenciación
+El alcance del producto se ha expandido y detallado para cubrir necesidades reales:
+* **Ampliación Funcional:** Se pasó de funcionalidades base a la inclusión explícita de módulos de **Gamificación y Bienestar** como diferenciadores clave.
+* **Especificidad Técnica:** Los requerimientos ahora incluyen detalles técnicos precisos, como la sincronización bidireccional del calendario y la configuración de intervalos en el modo enfoque, superando las descripciones vagas de entregas anteriores.
 
-## II. 🛡️ Refuerzo de Requisitos No Funcionales (RNF)
+### 3. Estrategia de Priorización (MoSCOW)
+Se reemplazó la priorización genérica por la aplicación consistente del esquema **MoSCOW**:
+* **Identificación clara de requisitos MUST** (Gestión de tareas, Seguridad, Rendimiento) críticos para el MVP.
+* **Clasificación estratégica de elementos SHOULD y COULD** para fases posteriores, asegurando la viabilidad del desarrollo.
 
-Los RNF se especificaron con mayor detalle técnico y de inclusión, haciendo los requisitos más formales.
+### 4. Trazabilidad y Coherencia
+Se ha establecido una trazabilidad clara entre los niveles de abstracción:
+* Cada Requerimiento Funcional está respaldado por artefactos de especificación asociados (Historia de Usuario o Caso de Uso).
+* Se integraron requisitos no funcionales (como la seguridad y el rendimiento) de manera coherente con las historias de usuario.
 
-- **Seguridad:** Se pasó de mencionar "almacenamiento seguro de datos" a especificar **medidas técnicas** clave: **autenticación segura** y **cifrado** de la información (tareas, datos personales).
-- **Disponibilidad (Rendimiento):** Se añadió el requisito de **soporte offline** como una capacidad explícita, que no se mencionaba en el diagrama original.
-- **Accesibilidad:** El requisito se hizo más inclusivo, pasando de "Usuarios de todas las edades" a ser **"accesible para todo tipo de personas... capacidades físicas"**.
-- **Usabilidad:** Se reforzó el requisito con la mención explícita de una **"navegación simple"**.
+---
 
-## III. 📝 Formalización de Artefactos de Documentación
-
-El cambio más significativo en la documentación es la formalización de las Historias de Usuario (HU) y, sobre todo, la definición clara de sus **Criterios de Aceptación**.
-
-- **Criterios de Aceptación (CA):** Los CA se definieron rigurosamente para cada Historia (ej. Crear, clasificar tareas; Calendario Integrado; Modo Enfoque). Esto transforma la documentación en especificaciones concretas que sirven de base para el desarrollo y la verificación del producto.
-- **Integración RNF/HU:** Se crearon **Historias de Usuario dedicadas** a los Requisitos No Funcionales clave como Usabilidad (interfaz clara, navegación simple, soporte offline) y Seguridad (protección de datos, autenticación segura).
-- **Diagrama de Casos de Uso (CDU):** La segunda versión incluye una referencia a un Diagrama de Casos de Uso , un artefacto crucial para mapear y visualizar las interacciones de los diferentes **actores** (Estudiante, Empleado, Adulto Mayor, etc.) con el sistema.
+**Conclusión:**  
+La documentación actual evidencia no solo qué hará el sistema, sino cómo se comportará ante situaciones reales, garantizando una implementación completa y verificable basada en objetivos claros.
