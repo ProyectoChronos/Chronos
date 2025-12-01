@@ -38,7 +38,7 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 
 ## 📚 Tabla de Contenido
 
-### [Rúbrica Segunda Entrega](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/EVNjlEMTeRRChKTQud9XIEYBg__RAUGntTlEbQBo44SNdg?e=4wxseh)
+### [Rúbrica Tercera Entrega](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/IQBCupOn3jc3RavXK5f_5l-RAUe3OHbcscS8IlhiZFoYeAs?e=MITe3L)
 
 ### 1. [Producto](producto/)
 
