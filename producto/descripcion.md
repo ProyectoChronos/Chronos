@@ -2,65 +2,58 @@
 
 ## ¿Qué es CHRONOS?
 
-**CHRONOS** es una aplicación web multiplataforma diseñada para transformar la manera en que las personas gestionan sus tareas diarias, convirtiéndolas en hábitos productivos sostenibles a través de un sistema integral que combina organización, gamificación y bienestar personal.
+**CHRONOS** es una aplicación web multiplataforma diseñada para transformar la manera en que las personas gestionan su tiempo y aprendizaje. No es solo un organizador; es un ecosistema que combina gestión de tareas, técnicas de estudio cognitivo y gamificación para crear hábitos productivos sostenibles.
 
 ## Visión del Producto
-
-Crear una herramienta que no solo organice tareas, sino que motive a los usuarios a desarrollar hábitos productivos duraderos mediante elementos de juego y un enfoque integral en el bienestar personal.
+Crear una herramienta que no solo organice tareas, sino que potencie la capacidad cognitiva de los usuarios, integrando las mejores técnicas de estudio mundialmente reconocidas en una interfaz gamificada.
 
 ## Misión
-
-Proporcionar una plataforma intuitiva y motivadora que ayude a personas de todas las edades y profesiones a organizar su tiempo de manera efectiva, desarrollar hábitos productivos y mantener un equilibrio saludable entre productividad y bienestar personal.
+Proporcionar una plataforma intuitiva que ayude a estudiantes y profesionales a pasar de la "ocupación" a la "productividad real", facilitando el aprendizaje profundo y el bienestar mental.
 
 ## Características Principales
 
-### 📊 Gestión de Tareas
-
-- Creación y organización de tareas con categorización flexible (categorías y subcategorías).
+### 📊 Gestión Inteligente de Tareas
+- Creación y organización de tareas con categorización flexible.
 - Sistema de prioridades y fechas límite.
-- Vista de calendario integrada (diaria, semanal y mensual).
-- Indicador visual del progreso (tareas completadas vs. pendientes).
+- Vista de calendario integrada.
+- Indicador visual del progreso (Barra de XP y niveles).
 
-### 🎮 Sistema de Gamificación
+### 🧠 Sistema Avanzado de Estudio y Enfoque (Smart Study)
+CHRONOS se distingue por integrar 4 modos de trabajo que combinan gestión temporal con técnicas de aprendizaje:
 
-- Sistema de recompensas por completar tareas.
-- Niveles de progreso personal.
-- Logros desbloqueables e insignias.
+**A. Modos de Gestión de Tiempo (Contenedores):**
+- **🍅 Pomodoro:** Intervalos fijos (25/5 min) para tareas mecánicas o de alta intensidad.
+- **🌊 Flowtime:** Cronómetro flexible para tareas creativas o de inmersión profunda, permitiendo al usuario descubrir sus propios picos de concentración.
 
-### 🧘 Herramientas de Bienestar y Enfoque
+**B. Modos de Aprendizaje Cognitivo (Contenido):**
+- **🃏 Active Recall (Recuperación Activa):** Sistema de tarjetas y autoevaluación integrado para combatir la curva del olvido.
+- **💡 Técnica Feynman:** Espacio dedicado para simplificar y explicar conceptos complejos.
 
-- Check-in diario de estado de ánimo.
-- Modo Enfoque con técnicas como Pomodoro.
-- Personalización de intervalos de trabajo/descanso.
-- Historial de sesiones de enfoque.
-- Recordatorios de descansos y sugerencias de rutinas saludables.
+**C. Sinergia Híbrida (Workflow Único):**
+- **Multitarea Productiva:** Los modos de tiempo pueden ejecutarse simultáneamente con los modos cognitivos.
+- **Conversión Inteligente:** Al finalizar una sesión de *Feynman*, el sistema ofrece convertir automáticamente la explicación creada en tarjetas para *Active Recall*.
 
-### 🔔 Notificaciones
+### 🎮 Sistema de Gamificación RPG
+- Sistema de recompensas (XP) por completar ciclos de estudio, no solo tareas.
+- Niveles de progreso personal (ej. "Novato" a "Maestro del Tiempo").
+- Logros desbloqueables e insignias por consistencia.
 
-- Recordatorios automáticos sobre tareas pendientes.
-- Notificaciones de los eventos agendados en el calendario.
-- Notificaciones de cambios de ciclo en el Modo Enfoque (trabajo/descanso).
+### 🧘 Herramientas de Bienestar
+- Check-in diario de estado de ánimo antes de empezar a trabajar.
+- Bloqueo preventivo de tareas si el usuario reporta "Agotamiento" (Burnout shield).
+- Historial de sesiones de enfoque y sugerencias de descanso.
 
 ## Diferenciadores Clave
-
-1.  **Enfoque Integral**: No solo gestiona tareas, sino que desarrolla hábitos productivos.
-2.  **Gamificación Motivadora**: Convierte la productividad en una experiencia divertida y enganchante.
-3.  **Bienestar Personal**: Incluye herramientas para mantener un equilibrio saludable.
-4.  **Simplicidad y Accesibilidad**: Interfaz intuitiva diseñada para todos, sin importar el nivel técnico o las capacidades físicas.
-5.  **Seguridad y Confianza**: Compromiso con la privacidad mediante autenticación segura y cifrado de datos.
+1.  **Sinergia de Técnicas**: Única app que conecta Feynman con Active Recall.
+2.  **Gamificación Estructural**: Convierte el estudio en un juego de rol.
+3.  **Adaptabilidad**: Ofrece Pomodoro para tareas cortas y Flowtime para trabajo profundo.
 
 ## Tecnología
-
-- **Plataforma**: Aplicación web responsive.
-- **Accesibilidad**: Diseño enfocado en la inclusión, accesible para personas con diversas capacidades físicas y niveles técnicos.
-- **Disponibilidad**: Funcionalidad básica en **Modo Offline**.
-- **Seguridad**: Autenticación segura y **cifrado** para proteger los datos del usuario.
-- **Sincronización**: Datos sincronizados en tiempo real entre dispositivos.
-
-## Posicionamiento en el Mercado
-
-CHRONOS se posiciona como el "organizador personal inteligente" que va más allá de las aplicaciones tradicionales de gestión de tareas, ofreciendo una experiencia completa que incluye motivación, bienestar y desarrollo de hábitos productivos a largo plazo.
+- **Plataforma**: Web App (PWA) responsive.
+- **Accesibilidad**: Diseño inclusivo.
+- **Disponibilidad**: Funcionalidad Offline (Modo Estudio sin internet).
+- **Seguridad**: Cifrado de datos de usuario.
 
 ---
 
-_CHRONOS: Donde la productividad se encuentra con el bienestar personal_ ⏰✨
+_CHRONOS: Donde la productividad se encuentra con la ciencia del aprendizaje_ 🧠✨
