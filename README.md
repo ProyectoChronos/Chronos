@@ -5,7 +5,8 @@
 **Licenciatura en Ingeniería de Software**
 
 ---
-
+## [Rubrica Primera Entrega](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/IQC-r2qP5kKfSLKJrqdYqztoATjQuR5zWlbut3Mq26U4iUE?e=MwvQwV)
+---
 ## 🎯 Objetivo
 
 Desarrollar una aplicación web multiplataforma que transforme la gestión de tareas en un sistema integral de desarrollo de hábitos productivos, incorporando elementos de gamificación y herramientas de bienestar para mejorar la productividad personal y grupal.
