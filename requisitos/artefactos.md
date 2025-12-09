@@ -6,6 +6,79 @@ Los artefactos son documentos, modelos, diagramas y entregables que se producen 
 
 ---
 
+# Historias de Usuarios
+
+## A) Gestión General de Tareas
+**Como:** Un usuario de la aplicación CHRONOS  
+**Quiero:** Poder agregar y clasificar mis tareas  
+**Para que:** Pueda organizar mejor mis pendientes y reducir mi estrés
+
+**Criterios de aceptación:**
+1. Debo poder crear tareas y asignarles categorías y subcategorías.
+2. La aplicación debe permitirme establecer fechas límites y niveles de prioridad para cada tarea.
+3. Debe haber recordatorios automáticos que me avisen sobre mis tareas pendientes.
+4. Quiero ver un indicador visual de mi progreso, mostrando tareas completadas y pendientes.
+
+> **Notas de diseño:** La interfaz debe ser intuitiva y fácil de usar.
+
+---
+
+## B) Recomendaciones Inteligentes (Estudiante)
+**Como:** Estudiante con muchas tareas  
+**Quiero:** Recibir recomendaciones inteligentes que me sugieran el orden de ejecución según urgencia y carga  
+**Para que:** Pueda administrar mejor mi tiempo y priorizar lo más importante
+
+**Criterios de aceptación:**
+1. El sistema debe analizar las tareas según fecha límite, prioridad y carga acumulada.
+2. Debe sugerirme un orden de ejecución visible.
+3. Debo poder aceptar o ignorar las recomendaciones.
+4. Las recomendaciones deben actualizarse automáticamente al cambiar fechas o prioridades.
+5. El sistema debe justificar brevemente por qué recomienda ese orden (ej. "Fecha límite más próxima").
+
+> **Notas:**  
+> * Las recomendaciones deben mostrarse de manera clara y no invasiva.  
+> * El algoritmo debe ser eficiente y no afectar el rendimiento de la app.
+
+---
+
+## C) Modos de Estudio y Enfoque
+**Como:** Estudiante que se distrae fácilmente  
+**Quiero:** Activar un modo enfoque o seleccionar entre diferentes modos de estudio  
+**Para que:** Pueda concentrarme en mis actividades y elegir la técnica que mejor se adapte a mi forma de trabajar
+
+**Criterios de aceptación:**
+1. Debo poder elegir entre distintos modos de estudio antes de iniciar (ej. Modo Enfoque simple, Pomodoro, Sesión libre, Descanso programado).
+2. Cada modo debe tener una breve descripción para que el usuario entienda cómo funciona antes de seleccionarlo.
+3. Debo poder personalizar la duración de los intervalos de cada modo (ej. Pomodoro de 50/10 en lugar de 25/5).
+4. El sistema debe mostrar un temporizador con el tiempo restante en cada ciclo o sesión.
+5. El sistema debe guardar un historial de las sesiones realizadas (ej. cuántos pomodoros completados en un día).
+6. Si el usuario selecciona Pomodoro u otro modo cíclico, el sistema debe notificar claramente cuándo es momento de descansar o volver a trabajar.
+
+> **Notas:**  
+> * Diseño minimalista con colores/sonidos para cambios de estado.  
+> * Integración con sistema de recompensas (ej. medallas).  
+> * Configuración de modo favorito para inicio rápido.  
+> * Futuras versiones: Time Blocking o Deep Work.
+
+---
+
+## D) Calendario Integrado (Múltiples Compromisos)
+**Como:** Persona con múltiples compromisos  
+**Quiero:** Un calendario integrado que sincronice mis tareas académicas, laborales y personales  
+**Para que:** Pueda visualizar todo en un solo lugar y mantener equilibrio en mi vida
+
+**Criterios de aceptación:**
+1. Debo poder ver todas mis tareas organizadas en un calendario integrado.
+2. El calendario debe permitir vistas diaria, semanal y mensual.
+3. Cada categoría de tarea debe diferenciarse con un color o etiqueta.
+4. Debo poder crear, editar y eliminar eventos directamente en el calendario.
+5. El sistema debe mostrar notificaciones de los eventos agendados.
+
+> **Notas:**  
+> * El calendario debe ser responsivo (móviles y pantallas grandes).  
+> * Se recomienda ofrecer exportación a PDF/ICS para compartir la agenda.
+
+
 ## Clasificación de Artefactos
 
 ### 📚 Artefactos de Gestión
