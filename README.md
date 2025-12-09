@@ -30,6 +30,11 @@ El proyecto CHRONOS abarca el desarrollo de una aplicación web completa que inc
 - Capacidad de almacenamiento limitada para archivos grandes
 
 ---
+## Rubricas
+
+### [Primera Entrega](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/IQC-r2qP5kKfSLKJrqdYqztoATjQuR5zWlbut3Mq26U4iUE?e=MwvQwV)
+### [Segunda Entrega](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/EVNjlEMTeRRChKTQud9XIEYBg__RAUGntTlEbQBo44SNdg?e=4wxseh)
+### [Tercera Entrega](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a25216452_alumnos_uady_mx/IQBCupOn3jc3RavXK5f_5l-RAUe3OHbcscS8IlhiZFoYeAs?e=MITe3L)
 
 ## 📚 Tabla de Contenido
 
